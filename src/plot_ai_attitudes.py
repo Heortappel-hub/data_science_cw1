@@ -32,17 +32,30 @@ def plot(table, title, note, output):
     countries = table.index.get_level_values("cname").unique()
     cols = min(4, len(countries))
     rows = (len(countries) + cols - 1) // cols
-    fig, axes = plt.subplots(rows, cols, figsize=(4.4 * cols, 2.55 * rows + 1.8), squeeze=False)
+    fig, axes = plt.subplots(rows, cols, figsize=(4.8 * cols, 3.4 * rows + 1.8), squeeze=False)
     for ax, country in zip(axes.flat, countries):
         block = table.loc[country]
         y = np.arange(len(block))
         left = np.zeros(len(block))
-        for answer, color in zip(ANSWERS.values(), COLORS):
+        # Use a separate label line for the entire bar if any segment is too narrow.
+        narrow = block[list(ANSWERS.values())].min(axis=1).lt(16).to_numpy()
+        for index, (answer, color) in enumerate(zip(ANSWERS.values(), COLORS)):
             widths = block[answer].fillna(0).to_numpy()
-            ax.barh(y, widths, left=left, color=color, height=0.72)
+            ax.barh(y, widths, left=left, color=color, height=0.49)
+            for pos in y[block.n.notna()]:
+                if narrow[pos]:
+                    x = (index + 0.5) * 100 / 3
+                    dy = 0.40
+                    ink = ["#125e5a", "#444c50", "#913f28"][index]
+                else:
+                    x = left[pos] + widths[pos] / 2
+                    dy = 0
+                    ink = "#233136" if index == 1 else "white"
+                ax.text(x, pos + dy, f"{widths[pos]:.1f}%", ha="center",
+                        va="center", fontsize=8, color=ink)
             left += widths
         ax.set_yticks(y, block.index)
-        ax.invert_yaxis()
+        ax.set_ylim(len(block) - 0.30, -0.5)
         ax.set_xlim(0, 100)
         ax.set_xticks([0, 50, 100], ["0%", "50%", "100%"])
         for pos in y[block.n.isna()]:
