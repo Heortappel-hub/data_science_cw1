@@ -1,0 +1,11 @@
+# Local environments and generated respondent-level data
+.venv/
+outputs/
+__pycache__/
+.pytest_cache/
+.superpowers/
+*.pkl
+/src/clean.csv
+/src/data_quality_report.txt
+/src/educ_labels.txt
+/src/educ_mapping.csv

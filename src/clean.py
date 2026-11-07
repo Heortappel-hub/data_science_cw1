@@ -2,13 +2,17 @@
 """
 COMP5122M Part I - preprocessing (explicit brief requirements only)
 
-Run:  python clean.py        (needs data.sav in the same folder)
+Run:  python src/clean.py --output-dir outputs/clean
+      Input defaults to the original SAV under Data/sources, independent of the working directory.
 Out:  clean.pkl               cleaned data
       data_quality_report.txt data-quality assessment, organised by the five questions from the
                               Week 1 lecture: structure, granularity, scope, temporality, faithfulness
       educ_labels.txt         every country's education codes, to build the harmonisation map
 
 """
+import argparse
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 import pyreadstat
@@ -23,7 +27,8 @@ import pyreadstat
 # 格式：(年龄下限, 年龄上限, 组名)
 AGE_GROUPS = [(18, 29, "Gen Z"), (30, 120, "Older")]
 
-# 已决定：拒绝提供准确年龄的人不进入代际分析（generation 为缺失）；复现 topline 时仍保留
+# 暂行基线：拒绝提供准确年龄的人不进入代际分析；是否使用无歧义年龄段仍待小组确认。
+# 复现 topline 时仍保留全部记录；src/reproduce.py 单独给出年龄段敏感性结果。
 USE_AGE_BANDS_FOR_REFUSERS = False
 
 # 只有年龄段的人（现在只剩澳大利亚）取区间最大值。澳大利亚的段 18-29 / 30-49 / 50-64 / 65+
@@ -122,7 +127,14 @@ OFFICIAL = {
 # =====================================================================================
 # 0. 读取原始数据
 # =====================================================================================
-df, meta = pyreadstat.read_sav("data.sav")
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument("--input", type=Path,
+                    default=Path(__file__).resolve().parents[1] / "Data" / "sources" /
+                    "Pew Research Center Global Attitudes Spring 2025 Dataset.sav")
+parser.add_argument("--output-dir", type=Path, default=Path("outputs/clean"))
+args = parser.parse_args()
+args.output_dir.mkdir(parents=True, exist_ok=True)
+df, meta = pyreadstat.read_sav(str(args.input))
 LABELS = meta.variable_value_labels
 COUNTRY = {int(k): v for k, v in LABELS["country"].items()}
 N_ROWS_IN, N_COLS_RAW = df.shape
@@ -251,7 +263,7 @@ for v in ["age", "gender", "internetfreq", "political_scale2", "political_scale3
 log(f"  exact age DK/Refused outside Australia (only a band in d_age_*): {int((df['age'].isin([98, 99]) & ~AU).sum())}")
 
 # 导出各国教育编码，供填写 EDU_MAP 时参考
-with open("educ_labels.txt", "w", encoding="utf-8") as f:
+with open(args.output_dir / "educ_labels.txt", "w", encoding="utf-8") as f:
     for c in edu_all:
         f.write(f"## {c}  (n = {df[c].notna().sum()})\n")
         for k, l in LABELS.get(c, {}).items():
@@ -383,8 +395,8 @@ assert len(out) == N_ROWS_IN, f"lost {N_ROWS_IN - len(out):,} records"
 assert out.groupby("cname").size().to_dict() == n_by.to_dict(), "per-country row counts changed"
 log(f"\n=== 4. PIPELINE CHECK ===\nrows in = {N_ROWS_IN}, rows out = {len(out)}: no records lost")
 
-out.to_pickle("clean.pkl")
-out.to_csv("clean.csv", index=False, encoding="utf-8-sig")        # 给不用 Python 的组员（Excel 可直接打开）
+out.to_pickle(args.output_dir / "clean.pkl")
+out.to_csv(args.output_dir / "clean.csv", index=False, encoding="utf-8-sig")
 
 # 教育映射对照表：国家 / 原始编码 / 原文标签 / 统一等级，供报告写映射理由
 LEVEL_NAME = {1: "Low (ISCED 0-2)", 2: "Middle (ISCED 3-4)", 3: "High (ISCED 5-8)"}
@@ -396,11 +408,11 @@ for c in edu_cols:
         rows.append(dict(country=key, code=int(code), label=lab,
                          level=LEVEL_NAME.get(lvl, "Missing (DK/Refused)"),
                          n=int((df[c] == code).sum())))
-pd.DataFrame(rows).to_csv("educ_mapping.csv", index=False, encoding="utf-8-sig")
-with open("data_quality_report.txt", "w", encoding="utf-8") as f:
+pd.DataFrame(rows).to_csv(args.output_dir / "educ_mapping.csv", index=False, encoding="utf-8-sig")
+with open(args.output_dir / "data_quality_report.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(report))
 
-print("\nSaved clean.pkl, clean.csv, data_quality_report.txt, educ_labels.txt, educ_mapping.csv")
+print(f"\nSaved clean.pkl, clean.csv, data_quality_report.txt, educ_labels.txt, educ_mapping.csv to {args.output_dir}")
 print("Decisions still open (record each in the decision log):")
 for p in pending:
     print("  -", p)

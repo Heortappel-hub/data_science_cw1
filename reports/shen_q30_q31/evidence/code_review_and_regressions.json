@@ -1,0 +1,30 @@
+{
+  "whole_branch_review": "read-only independent reviewer",
+  "important_findings": [
+    "Missing preserved-field corruption checks",
+    "Extra country silently dropped by inner merge"
+  ],
+  "red_regression_run": {
+    "command": "python -m pytest -q",
+    "failed": 8,
+    "passed": 26,
+    "log_sha256": "4e91393903d775629824a324f938067e81daa0f037e2f0c0b234f94524a2fb47"
+  },
+  "green_regression_run": {
+    "command": "python -m pytest -q",
+    "failed": 0,
+    "passed": 34
+  },
+  "minor_deferred": "openpyxl metadata lookup is a required dependency even though reproduce.py does not directly read XLSX; install documented requirements.",
+  "rulings": [
+    "Preserve baseline age policy per user reply; keep unambiguous bands as sensitivity only",
+    "Preserve existing ISCED map; check mechanical consistency against upstream mapping CSV; substantive approval remains with education owner",
+    "No design-adjusted significance claim; descriptive point estimates only",
+    "Deliver local branch and patch per user reply; do not push or use alternate GitHub identity"
+  ],
+  "initial_red_run": {
+    "failed": 19,
+    "reason": "missing reproduction implementation and original cleaner input path",
+    "log_sha256": "4231f1cb391b90107f7fc4d24c1733947e939f978973edf027bb4d70f1bc4024"
+  }
+}

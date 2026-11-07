@@ -1,0 +1,25 @@
+{
+  "run_utc": "2026-11-07T14:44:27.119021+00:00",
+  "dimensions": {
+    "raw": [
+      28333,
+      483
+    ],
+    "clean": [
+      28333,
+      26
+    ]
+  },
+  "weighted_cells_match": 192,
+  "unweighted_cells_match": 53,
+  "total_cells": 192,
+  "max_abs_weight_effect_pp": 7.679303823834605,
+  "max_abs_weighted_official_pp": 0.4968168499624035,
+  "generation_unclassified_baseline": 296,
+  "generation_unclassified_unambiguous_sensitivity": 44,
+  "pending": [
+    "Group confirmation of non-Australian band-only policy",
+    "Education owner approval of existing ISCED crosswalk"
+  ],
+  "clean_raw_topline_equals_sav": true
+}

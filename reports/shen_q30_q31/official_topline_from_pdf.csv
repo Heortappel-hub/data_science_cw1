@@ -1,0 +1,193 @@
+country,question,code,category,official_pct,pdf_page
+Canada,Q30,1,A lot,41,48
+Canada,Q30,2,A little,51,48
+Canada,Q30,3,Nothing at all,8,48
+Canada,Q30,8,DK/Refused,0,48
+France,Q30,1,A lot,52,48
+France,Q30,2,A little,40,48
+France,Q30,3,Nothing at all,8,48
+France,Q30,8,DK/Refused,0,48
+Germany,Q30,1,A lot,51,48
+Germany,Q30,2,A little,45,48
+Germany,Q30,3,Nothing at all,4,48
+Germany,Q30,8,DK/Refused,0,48
+Greece,Q30,1,A lot,34,48
+Greece,Q30,2,A little,49,48
+Greece,Q30,3,Nothing at all,17,48
+Greece,Q30,8,DK/Refused,1,48
+Hungary,Q30,1,A lot,38,48
+Hungary,Q30,2,A little,53,48
+Hungary,Q30,3,Nothing at all,8,48
+Hungary,Q30,8,DK/Refused,0,48
+Italy,Q30,1,A lot,45,48
+Italy,Q30,2,A little,46,48
+Italy,Q30,3,Nothing at all,9,48
+Italy,Q30,8,DK/Refused,0,48
+Netherlands,Q30,1,A lot,46,48
+Netherlands,Q30,2,A little,44,48
+Netherlands,Q30,3,Nothing at all,10,48
+Netherlands,Q30,8,DK/Refused,0,48
+Poland,Q30,1,A lot,34,48
+Poland,Q30,2,A little,53,48
+Poland,Q30,3,Nothing at all,13,48
+Poland,Q30,8,DK/Refused,0,48
+Spain,Q30,1,A lot,30,48
+Spain,Q30,2,A little,56,48
+Spain,Q30,3,Nothing at all,14,48
+Spain,Q30,8,DK/Refused,0,48
+Sweden,Q30,1,A lot,46,48
+Sweden,Q30,2,A little,45,48
+Sweden,Q30,3,Nothing at all,8,48
+Sweden,Q30,8,DK/Refused,0,48
+UK,Q30,1,A lot,41,48
+UK,Q30,2,A little,49,48
+UK,Q30,3,Nothing at all,10,48
+UK,Q30,8,DK/Refused,0,48
+Australia,Q30,1,A lot,44,48
+Australia,Q30,2,A little,53,48
+Australia,Q30,3,Nothing at all,3,48
+Australia,Q30,8,DK/Refused,0,48
+India,Q30,1,A lot,14,48
+India,Q30,2,A little,32,48
+India,Q30,3,Nothing at all,35,48
+India,Q30,8,DK/Refused,19,48
+Indonesia,Q30,1,A lot,18,48
+Indonesia,Q30,2,A little,36,48
+Indonesia,Q30,3,Nothing at all,43,48
+Indonesia,Q30,8,DK/Refused,3,48
+Japan,Q30,1,A lot,53,48
+Japan,Q30,2,A little,36,48
+Japan,Q30,3,Nothing at all,11,48
+Japan,Q30,8,DK/Refused,0,48
+South Korea,Q30,1,A lot,21,48
+South Korea,Q30,2,A little,57,48
+South Korea,Q30,3,Nothing at all,21,48
+South Korea,Q30,8,DK/Refused,1,48
+Israel,Q30,1,A lot,36,48
+Israel,Q30,2,A little,44,48
+Israel,Q30,3,Nothing at all,18,48
+Israel,Q30,8,DK/Refused,2,48
+Turkey,Q30,1,A lot,19,48
+Turkey,Q30,2,A little,50,48
+Turkey,Q30,3,Nothing at all,25,48
+Turkey,Q30,8,DK/Refused,7,48
+Kenya,Q30,1,A lot,12,48
+Kenya,Q30,2,A little,36,48
+Kenya,Q30,3,Nothing at all,49,48
+Kenya,Q30,8,DK/Refused,4,48
+Nigeria,Q30,1,A lot,17,48
+Nigeria,Q30,2,A little,44,48
+Nigeria,Q30,3,Nothing at all,32,48
+Nigeria,Q30,8,DK/Refused,6,48
+South Africa,Q30,1,A lot,30,48
+South Africa,Q30,2,A little,31,48
+South Africa,Q30,3,Nothing at all,34,48
+South Africa,Q30,8,DK/Refused,6,48
+Argentina,Q30,1,A lot,24,48
+Argentina,Q30,2,A little,48,48
+Argentina,Q30,3,Nothing at all,28,48
+Argentina,Q30,8,DK/Refused,0,48
+Brazil,Q30,1,A lot,22,48
+Brazil,Q30,2,A little,47,48
+Brazil,Q30,3,Nothing at all,30,48
+Brazil,Q30,8,DK/Refused,1,48
+Mexico,Q30,1,A lot,19,48
+Mexico,Q30,2,A little,53,48
+Mexico,Q30,3,Nothing at all,27,48
+Mexico,Q30,8,DK/Refused,1,48
+Canada,Q31,1,More excited than concerned,9,48
+Canada,Q31,2,More concerned than excited,45,48
+Canada,Q31,3,Equally concerned and excited,45,48
+Canada,Q31,8,DK/Refused,1,48
+France,Q31,1,More excited than concerned,15,48
+France,Q31,2,More concerned than excited,35,48
+France,Q31,3,Equally concerned and excited,49,48
+France,Q31,8,DK/Refused,2,48
+Germany,Q31,1,More excited than concerned,17,48
+Germany,Q31,2,More concerned than excited,29,48
+Germany,Q31,3,Equally concerned and excited,53,48
+Germany,Q31,8,DK/Refused,1,48
+Greece,Q31,1,More excited than concerned,10,48
+Greece,Q31,2,More concerned than excited,47,48
+Greece,Q31,3,Equally concerned and excited,39,48
+Greece,Q31,8,DK/Refused,3,48
+Hungary,Q31,1,More excited than concerned,18,48
+Hungary,Q31,2,More concerned than excited,33,48
+Hungary,Q31,3,Equally concerned and excited,47,48
+Hungary,Q31,8,DK/Refused,2,48
+Italy,Q31,1,More excited than concerned,12,48
+Italy,Q31,2,More concerned than excited,50,48
+Italy,Q31,3,Equally concerned and excited,37,48
+Italy,Q31,8,DK/Refused,2,48
+Netherlands,Q31,1,More excited than concerned,16,48
+Netherlands,Q31,2,More concerned than excited,34,48
+Netherlands,Q31,3,Equally concerned and excited,48,48
+Netherlands,Q31,8,DK/Refused,1,48
+Poland,Q31,1,More excited than concerned,15,48
+Poland,Q31,2,More concerned than excited,37,48
+Poland,Q31,3,Equally concerned and excited,42,48
+Poland,Q31,8,DK/Refused,6,48
+Spain,Q31,1,More excited than concerned,19,48
+Spain,Q31,2,More concerned than excited,39,48
+Spain,Q31,3,Equally concerned and excited,38,48
+Spain,Q31,8,DK/Refused,3,48
+Sweden,Q31,1,More excited than concerned,22,48
+Sweden,Q31,2,More concerned than excited,31,48
+Sweden,Q31,3,Equally concerned and excited,45,48
+Sweden,Q31,8,DK/Refused,2,48
+UK,Q31,1,More excited than concerned,13,48
+UK,Q31,2,More concerned than excited,39,48
+UK,Q31,3,Equally concerned and excited,46,48
+UK,Q31,8,DK/Refused,2,48
+Australia,Q31,1,More excited than concerned,13,48
+Australia,Q31,2,More concerned than excited,49,48
+Australia,Q31,3,Equally concerned and excited,38,48
+Australia,Q31,8,DK/Refused,0,48
+India,Q31,1,More excited than concerned,16,48
+India,Q31,2,More concerned than excited,19,48
+India,Q31,3,Equally concerned and excited,39,48
+India,Q31,8,DK/Refused,26,48
+Indonesia,Q31,1,More excited than concerned,14,48
+Indonesia,Q31,2,More concerned than excited,32,48
+Indonesia,Q31,3,Equally concerned and excited,49,48
+Indonesia,Q31,8,DK/Refused,5,48
+Japan,Q31,1,More excited than concerned,16,48
+Japan,Q31,2,More concerned than excited,28,48
+Japan,Q31,3,Equally concerned and excited,55,48
+Japan,Q31,8,DK/Refused,1,48
+South Korea,Q31,1,More excited than concerned,22,48
+South Korea,Q31,2,More concerned than excited,16,48
+South Korea,Q31,3,Equally concerned and excited,61,48
+South Korea,Q31,8,DK/Refused,1,48
+Israel,Q31,1,More excited than concerned,29,48
+Israel,Q31,2,More concerned than excited,21,48
+Israel,Q31,3,Equally concerned and excited,34,48
+Israel,Q31,8,DK/Refused,16,48
+Turkey,Q31,1,More excited than concerned,19,48
+Turkey,Q31,2,More concerned than excited,26,48
+Turkey,Q31,3,Equally concerned and excited,35,48
+Turkey,Q31,8,DK/Refused,20,48
+Kenya,Q31,1,More excited than concerned,17,48
+Kenya,Q31,2,More concerned than excited,31,48
+Kenya,Q31,3,Equally concerned and excited,43,48
+Kenya,Q31,8,DK/Refused,10,48
+Nigeria,Q31,1,More excited than concerned,20,48
+Nigeria,Q31,2,More concerned than excited,24,48
+Nigeria,Q31,3,Equally concerned and excited,36,48
+Nigeria,Q31,8,DK/Refused,20,48
+South Africa,Q31,1,More excited than concerned,18,48
+South Africa,Q31,2,More concerned than excited,30,48
+South Africa,Q31,3,Equally concerned and excited,42,48
+South Africa,Q31,8,DK/Refused,10,48
+Argentina,Q31,1,More excited than concerned,13,48
+Argentina,Q31,2,More concerned than excited,39,48
+Argentina,Q31,3,Equally concerned and excited,41,48
+Argentina,Q31,8,DK/Refused,6,48
+Brazil,Q31,1,More excited than concerned,10,48
+Brazil,Q31,2,More concerned than excited,48,48
+Brazil,Q31,3,Equally concerned and excited,37,48
+Brazil,Q31,8,DK/Refused,5,48
+Mexico,Q31,1,More excited than concerned,13,48
+Mexico,Q31,2,More concerned than excited,35,48
+Mexico,Q31,3,Equally concerned and excited,47,48
+Mexico,Q31,8,DK/Refused,6,48

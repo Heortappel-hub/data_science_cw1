@@ -1,0 +1,29 @@
+{
+  "access": "Unauthenticated public GET only",
+  "branches": [
+    {
+      "name": "dataprocess",
+      "commit": {
+        "sha": "de0fff48ba7e1b769826bcbd7cf3af294076fd4c",
+        "url": "https://api.github.com/repos/Heortappel-hub/data_science_cw1/commits/de0fff48ba7e1b769826bcbd7cf3af294076fd4c"
+      }
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "4dc8ce983027cf1efa58c5c107752b4d8c4fa1f6",
+        "url": "https://api.github.com/repos/Heortappel-hub/data_science_cw1/commits/4dc8ce983027cf1efa58c5c107752b4d8c4fa1f6"
+      }
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "title": "Check standard and classification",
+      "state": "open",
+      "comments": 0
+    }
+  ],
+  "comments": [],
+  "pulls": []
+}

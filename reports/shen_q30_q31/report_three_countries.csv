@@ -1,0 +1,25 @@
+country,question,code,n,weight_sum,weighted_pct,unweighted_pct,category,official_pct,pdf_page,weighted_minus_unweighted_pp,weighted_minus_official_pp,weighted_rounded,weighted_matches_official,unweighted_minus_official_pp,unweighted_rounded,unweighted_matches_official
+Canada,Q30,1,1024,1024.0000,40.8833,42.2852,A lot,41,48,-1.4018,-0.1167,41,True,1.2852,42,False
+Canada,Q30,2,1024,1024.0000,50.8922,50.9766,A little,51,48,-0.0844,-0.1078,51,True,-0.0234,51,True
+Canada,Q30,3,1024,1024.0000,8.0417,6.5430,Nothing at all,8,48,1.4987,0.0417,8,True,-1.4570,7,False
+Canada,Q30,8,1024,1024.0000,0.1828,0.1953,DK/Refused,0,48,-0.0125,0.1828,0,True,0.1953,0,True
+Canada,Q31,1,1024,1024.0000,9.0500,8.7891,More excited than concerned,9,48,0.2610,0.0500,9,True,-0.2109,9,True
+Canada,Q31,2,1024,1024.0000,44.6413,43.4570,More concerned than excited,45,48,1.1843,-0.3587,45,True,-1.5430,43,False
+Canada,Q31,3,1024,1024.0000,44.9848,46.6797,Equally concerned and excited,45,48,-1.6949,-0.0152,45,True,1.6797,47,False
+Canada,Q31,8,1024,1024.0000,1.3239,1.0742,DK/Refused,1,48,0.2497,0.3239,1,True,0.0742,1,True
+Germany,Q30,1,1006,1006.0000,51.4130,52.9821,A lot,51,48,-1.5691,0.4130,51,True,1.9821,53,False
+Germany,Q30,2,1006,1006.0000,44.9779,44.0358,A little,45,48,0.9421,-0.0221,45,True,-0.9642,44,False
+Germany,Q30,3,1006,1006.0000,3.6091,2.9821,Nothing at all,4,48,0.6270,-0.3909,4,True,-1.0179,3,False
+Germany,Q30,8,1006,1006.0000,0.0000,0.0000,DK/Refused,0,48,0.0000,0.0000,0,True,0.0000,0,True
+Germany,Q31,1,1006,1006.0000,17.3902,16.8986,More excited than concerned,17,48,0.4916,0.3902,17,True,-0.1014,17,True
+Germany,Q31,2,1006,1006.0000,28.7440,27.5348,More concerned than excited,29,48,1.2092,-0.2560,29,True,-1.4652,28,False
+Germany,Q31,3,1006,1006.0000,52.9133,54.6720,Equally concerned and excited,53,48,-1.7587,-0.0867,53,True,1.6720,55,False
+Germany,Q31,8,1006,1006.0000,0.9524,0.8946,DK/Refused,1,48,0.0578,-0.0476,1,True,-0.1054,1,True
+India,Q30,1,3545,3545.0000,14.0605,17.2638,A lot,14,48,-3.2033,0.0605,14,True,3.2638,17,False
+India,Q30,2,3545,3545.0000,31.6074,37.4894,A little,32,48,-5.8820,-0.3926,32,True,5.4894,37,False
+India,Q30,3,3545,3545.0000,35.4885,31.9041,Nothing at all,35,48,3.5844,0.4885,35,True,-3.0959,32,False
+India,Q30,8,3545,3545.0000,18.8436,13.3427,DK/Refused,19,48,5.5009,-0.1564,19,True,-5.6573,13,False
+India,Q31,1,3545,3545.0000,16.4033,18.3357,More excited than concerned,16,48,-1.9324,0.4033,16,True,2.3357,18,False
+India,Q31,2,3545,3545.0000,18.7603,19.4640,More concerned than excited,19,48,-0.7038,-0.2397,19,True,0.4640,19,True
+India,Q31,3,3545,3545.0000,39.2090,41.2694,Equally concerned and excited,39,48,-2.0604,0.2090,39,True,2.2694,41,False
+India,Q31,8,3545,3545.0000,25.6274,20.9309,DK/Refused,26,48,4.6965,-0.3726,26,True,-5.0691,21,False

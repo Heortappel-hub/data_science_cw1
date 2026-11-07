@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/liyilin/Part-time job/数据作业/data_science_cw1/src/clean.py", line 125, in <module>
+    df, meta = pyreadstat.read_sav("data.sav")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/liyilin/Part-time job/数据作业/.venv/lib/python3.12/site-packages/pyreadstat/pyreadstat.py", line 687, in read_sav
+    data_frame, metadata = parser_entry_point(
+                           ^^^^^^^^^^^^^^^^^^^
+  File "pyreadstat/_readstat_parser.pyx", line 1422, in pyreadstat._readstat_parser.parser_entry_point
+  File "pyreadstat/_readstat_parser.pyx", line 1278, in pyreadstat._readstat_parser.run_conversion
+pyreadstat._readstat_parser.PyreadstatError: File data.sav does not exist!

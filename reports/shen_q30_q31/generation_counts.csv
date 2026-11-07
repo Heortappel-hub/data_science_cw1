@@ -1,0 +1,145 @@
+policy,country,generation,n
+baseline,Canada,Gen Z,102
+baseline,Canada,Non-Gen Z,873
+baseline,Canada,Unclassified,49
+baseline,France,Gen Z,125
+baseline,France,Non-Gen Z,871
+baseline,France,Unclassified,10
+baseline,Germany,Gen Z,119
+baseline,Germany,Non-Gen Z,865
+baseline,Germany,Unclassified,22
+baseline,Greece,Gen Z,98
+baseline,Greece,Non-Gen Z,911
+baseline,Greece,Unclassified,1
+baseline,Hungary,Gen Z,80
+baseline,Hungary,Non-Gen Z,934
+baseline,Hungary,Unclassified,6
+baseline,Italy,Gen Z,145
+baseline,Italy,Non-Gen Z,853
+baseline,Italy,Unclassified,9
+baseline,Netherlands,Gen Z,107
+baseline,Netherlands,Non-Gen Z,885
+baseline,Netherlands,Unclassified,8
+baseline,Poland,Gen Z,130
+baseline,Poland,Non-Gen Z,835
+baseline,Poland,Unclassified,37
+baseline,Spain,Gen Z,137
+baseline,Spain,Non-Gen Z,850
+baseline,Spain,Unclassified,14
+baseline,Sweden,Gen Z,126
+baseline,Sweden,Non-Gen Z,874
+baseline,Sweden,Unclassified,1
+baseline,UK,Gen Z,162
+baseline,UK,Non-Gen Z,786
+baseline,UK,Unclassified,58
+baseline,Australia,Gen Z,326
+baseline,Australia,Non-Gen Z,1501
+baseline,Australia,Unclassified,2
+baseline,India,Gen Z,1083
+baseline,India,Non-Gen Z,2458
+baseline,India,Unclassified,4
+baseline,Indonesia,Gen Z,318
+baseline,Indonesia,Non-Gen Z,704
+baseline,Indonesia,Unclassified,0
+baseline,Japan,Gen Z,109
+baseline,Japan,Non-Gen Z,827
+baseline,Japan,Unclassified,70
+baseline,South Korea,Gen Z,80
+baseline,South Korea,Non-Gen Z,962
+baseline,South Korea,Unclassified,0
+baseline,Israel,Gen Z,239
+baseline,Israel,Non-Gen Z,759
+baseline,Israel,Unclassified,0
+baseline,Turkey,Gen Z,329
+baseline,Turkey,Non-Gen Z,715
+baseline,Turkey,Unclassified,4
+baseline,Kenya,Gen Z,560
+baseline,Kenya,Non-Gen Z,489
+baseline,Kenya,Unclassified,0
+baseline,Nigeria,Gen Z,460
+baseline,Nigeria,Non-Gen Z,576
+baseline,Nigeria,Unclassified,1
+baseline,South Africa,Gen Z,493
+baseline,South Africa,Non-Gen Z,1077
+baseline,South Africa,Unclassified,0
+baseline,Argentina,Gen Z,237
+baseline,Argentina,Non-Gen Z,764
+baseline,Argentina,Unclassified,0
+baseline,Brazil,Gen Z,211
+baseline,Brazil,Non-Gen Z,842
+baseline,Brazil,Unclassified,0
+baseline,Mexico,Gen Z,277
+baseline,Mexico,Non-Gen Z,773
+baseline,Mexico,Unclassified,0
+unambiguous_bands_sensitivity,Canada,Gen Z,104
+unambiguous_bands_sensitivity,Canada,Non-Gen Z,916
+unambiguous_bands_sensitivity,Canada,Unclassified,4
+unambiguous_bands_sensitivity,France,Gen Z,125
+unambiguous_bands_sensitivity,France,Non-Gen Z,879
+unambiguous_bands_sensitivity,France,Unclassified,2
+unambiguous_bands_sensitivity,Germany,Gen Z,120
+unambiguous_bands_sensitivity,Germany,Non-Gen Z,879
+unambiguous_bands_sensitivity,Germany,Unclassified,7
+unambiguous_bands_sensitivity,Greece,Gen Z,98
+unambiguous_bands_sensitivity,Greece,Non-Gen Z,912
+unambiguous_bands_sensitivity,Greece,Unclassified,0
+unambiguous_bands_sensitivity,Hungary,Gen Z,80
+unambiguous_bands_sensitivity,Hungary,Non-Gen Z,940
+unambiguous_bands_sensitivity,Hungary,Unclassified,0
+unambiguous_bands_sensitivity,Italy,Gen Z,146
+unambiguous_bands_sensitivity,Italy,Non-Gen Z,859
+unambiguous_bands_sensitivity,Italy,Unclassified,2
+unambiguous_bands_sensitivity,Netherlands,Gen Z,108
+unambiguous_bands_sensitivity,Netherlands,Non-Gen Z,891
+unambiguous_bands_sensitivity,Netherlands,Unclassified,1
+unambiguous_bands_sensitivity,Poland,Gen Z,131
+unambiguous_bands_sensitivity,Poland,Non-Gen Z,866
+unambiguous_bands_sensitivity,Poland,Unclassified,5
+unambiguous_bands_sensitivity,Spain,Gen Z,137
+unambiguous_bands_sensitivity,Spain,Non-Gen Z,861
+unambiguous_bands_sensitivity,Spain,Unclassified,3
+unambiguous_bands_sensitivity,Sweden,Gen Z,126
+unambiguous_bands_sensitivity,Sweden,Non-Gen Z,875
+unambiguous_bands_sensitivity,Sweden,Unclassified,0
+unambiguous_bands_sensitivity,UK,Gen Z,166
+unambiguous_bands_sensitivity,UK,Non-Gen Z,837
+unambiguous_bands_sensitivity,UK,Unclassified,3
+unambiguous_bands_sensitivity,Australia,Gen Z,326
+unambiguous_bands_sensitivity,Australia,Non-Gen Z,1501
+unambiguous_bands_sensitivity,Australia,Unclassified,2
+unambiguous_bands_sensitivity,India,Gen Z,1085
+unambiguous_bands_sensitivity,India,Non-Gen Z,2460
+unambiguous_bands_sensitivity,India,Unclassified,0
+unambiguous_bands_sensitivity,Indonesia,Gen Z,318
+unambiguous_bands_sensitivity,Indonesia,Non-Gen Z,704
+unambiguous_bands_sensitivity,Indonesia,Unclassified,0
+unambiguous_bands_sensitivity,Japan,Gen Z,112
+unambiguous_bands_sensitivity,Japan,Non-Gen Z,883
+unambiguous_bands_sensitivity,Japan,Unclassified,11
+unambiguous_bands_sensitivity,South Korea,Gen Z,80
+unambiguous_bands_sensitivity,South Korea,Non-Gen Z,962
+unambiguous_bands_sensitivity,South Korea,Unclassified,0
+unambiguous_bands_sensitivity,Israel,Gen Z,239
+unambiguous_bands_sensitivity,Israel,Non-Gen Z,759
+unambiguous_bands_sensitivity,Israel,Unclassified,0
+unambiguous_bands_sensitivity,Turkey,Gen Z,329
+unambiguous_bands_sensitivity,Turkey,Non-Gen Z,715
+unambiguous_bands_sensitivity,Turkey,Unclassified,4
+unambiguous_bands_sensitivity,Kenya,Gen Z,560
+unambiguous_bands_sensitivity,Kenya,Non-Gen Z,489
+unambiguous_bands_sensitivity,Kenya,Unclassified,0
+unambiguous_bands_sensitivity,Nigeria,Gen Z,460
+unambiguous_bands_sensitivity,Nigeria,Non-Gen Z,577
+unambiguous_bands_sensitivity,Nigeria,Unclassified,0
+unambiguous_bands_sensitivity,South Africa,Gen Z,493
+unambiguous_bands_sensitivity,South Africa,Non-Gen Z,1077
+unambiguous_bands_sensitivity,South Africa,Unclassified,0
+unambiguous_bands_sensitivity,Argentina,Gen Z,237
+unambiguous_bands_sensitivity,Argentina,Non-Gen Z,764
+unambiguous_bands_sensitivity,Argentina,Unclassified,0
+unambiguous_bands_sensitivity,Brazil,Gen Z,211
+unambiguous_bands_sensitivity,Brazil,Non-Gen Z,842
+unambiguous_bands_sensitivity,Brazil,Unclassified,0
+unambiguous_bands_sensitivity,Mexico,Gen Z,277
+unambiguous_bands_sensitivity,Mexico,Non-Gen Z,773
+unambiguous_bands_sensitivity,Mexico,Unclassified,0

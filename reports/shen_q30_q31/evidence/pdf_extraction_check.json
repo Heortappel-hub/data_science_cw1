@@ -1,0 +1,23 @@
+{
+  "pdfs": [
+    {
+      "file": "data_science_cw1/Data/sources/Pew Research Center Global Attitudes Spring 2025 Topline.pdf",
+      "sha256": "fdf2f5cde6b19dc8af3490b66026040329c24b3f1b26f5719efa3cb2fe207cf0",
+      "pdf_page": 48,
+      "layout_extraction_characters": 0,
+      "default_extraction_characters": 2240,
+      "parsed_category_cells": 192
+    },
+    {
+      "file": "handoff/DS_Q30_Q31_Work_Handoff/02_SOURCE_DATA/Pew_Official_Topline.pdf",
+      "sha256": "bb564232e54000ab0a2dd80ec714872ba8d21157e015d051de6b4faacd78a687",
+      "pdf_page": 48,
+      "layout_extraction_characters": 0,
+      "default_extraction_characters": 2240,
+      "parsed_category_cells": 192
+    }
+  ],
+  "both_pdf_tables_equal": true,
+  "both_poppler_tables_equal_pypdf": true,
+  "visually_checked": "topline_page48.png"
+}

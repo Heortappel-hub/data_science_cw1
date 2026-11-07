@@ -1,0 +1,156 @@
+country,variable,code,label,n_total,n_without_exact_age,unambiguous_generation
+argentina,d_age_argentina,1,18-29,0,0,Gen Z
+argentina,d_age_argentina,2,30-44,0,0,Non-Gen Z
+argentina,d_age_argentina,3,45-59,0,0,Non-Gen Z
+argentina,d_age_argentina,4,60-74,0,0,Non-Gen Z
+argentina,d_age_argentina,5,75+,0,0,Non-Gen Z
+argentina,d_age_argentina,8,Don't know (DO NOT READ),0,0,
+argentina,d_age_argentina,9,Refused (DO NOT READ),0,0,
+brazil,d_age_brazil,1,18-29,0,0,Gen Z
+brazil,d_age_brazil,2,30-44,0,0,Non-Gen Z
+brazil,d_age_brazil,3,45-59,0,0,Non-Gen Z
+brazil,d_age_brazil,4,60+,0,0,Non-Gen Z
+brazil,d_age_brazil,8,Don't know (DO NOT READ),0,0,
+brazil,d_age_brazil,9,Refused (DO NOT READ),0,0,
+Canada,d_age_canada,1,18-29,2,2,Gen Z
+Canada,d_age_canada,2,30-39,6,6,Non-Gen Z
+Canada,d_age_canada,3,40-49,7,7,Non-Gen Z
+Canada,d_age_canada,4,50+,30,30,Non-Gen Z
+Canada,d_age_canada,9,Refused (DO NOT READ),4,4,
+canada,d_age_canada,8,Don't know (DO NOT READ),0,0,
+France,d_age_france,2,25-34,1,1,
+France,d_age_france,3,35-49,1,1,Non-Gen Z
+France,d_age_france,4,50-64,3,3,Non-Gen Z
+France,d_age_france,5,65+,4,4,Non-Gen Z
+France,d_age_france,8,Don't know (DO NOT READ),1,1,
+france,d_age_france,1,18-24,0,0,Gen Z
+france,d_age_france,9,Refused (DO NOT READ),0,0,
+Germany,d_age_germany,1,18-24,1,1,Gen Z
+Germany,d_age_germany,2,25-44,4,4,
+Germany,d_age_germany,3,45-59,8,8,Non-Gen Z
+Germany,d_age_germany,4,60-64,2,2,Non-Gen Z
+Germany,d_age_germany,5,65+,4,4,Non-Gen Z
+Germany,d_age_germany,9,Refused (DO NOT READ),3,3,
+germany,d_age_germany,8,Don't know (DO NOT READ),0,0,
+Greece,d_age_greece,4,45-54,1,1,Non-Gen Z
+greece,d_age_greece,1,18-24,0,0,Gen Z
+greece,d_age_greece,2,25-34,0,0,
+greece,d_age_greece,3,35-44,0,0,Non-Gen Z
+greece,d_age_greece,5,55-64,0,0,Non-Gen Z
+greece,d_age_greece,6,65+,0,0,Non-Gen Z
+greece,d_age_greece,8,Don't know (DO NOT READ),0,0,
+greece,d_age_greece,9,Refused (DO NOT READ),0,0,
+Hungary,d_age_hungary,3,45-64,5,5,Non-Gen Z
+Hungary,d_age_hungary,4,65+,1,1,Non-Gen Z
+hungary,d_age_hungary,1,18-29,0,0,Gen Z
+hungary,d_age_hungary,2,30-44,0,0,Non-Gen Z
+hungary,d_age_hungary,8,Don't know (DO NOT READ),0,0,
+hungary,d_age_hungary,9,Refused (DO NOT READ),0,0,
+India,d_age_india,1,18-29,2,2,Gen Z
+India,d_age_india,3,45-59,1,1,Non-Gen Z
+India,d_age_india,4,60+,1,1,Non-Gen Z
+india,d_age_india,2,30-44,0,0,Non-Gen Z
+india,d_age_india,8,Don't know (DO NOT READ),0,0,
+india,d_age_india,9,Refused (DO NOT READ),0,0,
+indonesia,d_age_indonesia,1,18-29,0,0,Gen Z
+indonesia,d_age_indonesia,2,30-39,0,0,Non-Gen Z
+indonesia,d_age_indonesia,3,40-49,0,0,Non-Gen Z
+indonesia,d_age_indonesia,4,50+,0,0,Non-Gen Z
+indonesia,d_age_indonesia,8,Don't know (DO NOT READ),0,0,
+indonesia,d_age_indonesia,9,Refused (DO NOT READ),0,0,
+Israel,d_age_israel,3,45-64,2,0,Non-Gen Z
+israel,d_age_israel,1,18-29,0,0,Gen Z
+israel,d_age_israel,2,30-44,0,0,Non-Gen Z
+israel,d_age_israel,4,65+,0,0,Non-Gen Z
+israel,d_age_israel,8,Don't know (DO NOT READ),0,0,
+israel,d_age_israel,9,Refused (DO NOT READ),0,0,
+Italy,d_age_italy,1,18-24,1,1,Gen Z
+Italy,d_age_italy,2,25-34,1,1,
+Italy,d_age_italy,3,35-44,1,1,Non-Gen Z
+Italy,d_age_italy,5,55-64,1,1,Non-Gen Z
+Italy,d_age_italy,6,65+,4,4,Non-Gen Z
+Italy,d_age_italy,9,Refused (DO NOT READ),1,1,
+italy,d_age_italy,4,45-54,0,0,Non-Gen Z
+italy,d_age_italy,8,Don't know (DO NOT READ),0,0,
+Japan,d_age_japan,1,18-29,3,3,Gen Z
+Japan,d_age_japan,2,30-44,15,15,Non-Gen Z
+Japan,d_age_japan,3,45-59,21,21,Non-Gen Z
+Japan,d_age_japan,4,60-74,15,15,Non-Gen Z
+Japan,d_age_japan,5,75+,5,5,Non-Gen Z
+Japan,d_age_japan,9,Refused (DO NOT READ),11,11,
+japan,d_age_japan,8,Don't know (DO NOT READ),0,0,
+kenya,d_age_kenya,1,18-19,0,0,Gen Z
+kenya,d_age_kenya,2,20-29,0,0,Gen Z
+kenya,d_age_kenya,3,30-39,0,0,Non-Gen Z
+kenya,d_age_kenya,4,40-49,0,0,Non-Gen Z
+kenya,d_age_kenya,5,50+,0,0,Non-Gen Z
+kenya,d_age_kenya,8,Don't know (DO NOT READ),0,0,
+kenya,d_age_kenya,9,Refused (DO NOT READ),0,0,
+mexico,d_age_mexico,1,18-29,0,0,Gen Z
+mexico,d_age_mexico,2,30-39,0,0,Non-Gen Z
+mexico,d_age_mexico,3,40-49,0,0,Non-Gen Z
+mexico,d_age_mexico,4,50+,0,0,Non-Gen Z
+mexico,d_age_mexico,8,Don't know (DO NOT READ),0,0,
+mexico,d_age_mexico,9,Refused (DO NOT READ),0,0,
+Netherlands,d_age_netherlands,1,18-29,1,1,Gen Z
+Netherlands,d_age_netherlands,2,30-44,2,2,Non-Gen Z
+Netherlands,d_age_netherlands,3,45-64,1,1,Non-Gen Z
+Netherlands,d_age_netherlands,4,65-84,3,3,Non-Gen Z
+Netherlands,d_age_netherlands,9,Refused (DO NOT READ),1,1,
+netherlands,d_age_netherlands,5,85+,0,0,Non-Gen Z
+netherlands,d_age_netherlands,8,Don't know (DO NOT READ),0,0,
+Nigeria,d_age_nigeria,2,30-44,1,1,Non-Gen Z
+nigeria,d_age_nigeria,1,18-29,0,0,Gen Z
+nigeria,d_age_nigeria,3,45-59,0,0,Non-Gen Z
+nigeria,d_age_nigeria,4,60-74,0,0,Non-Gen Z
+nigeria,d_age_nigeria,5,75+,0,0,Non-Gen Z
+nigeria,d_age_nigeria,8,Don't know (DO NOT READ),0,0,
+nigeria,d_age_nigeria,9,Refused (DO NOT READ),0,0,
+Poland,d_age_poland,1,18-29,1,1,Gen Z
+Poland,d_age_poland,2,30-44,9,9,Non-Gen Z
+Poland,d_age_poland,3,45-59,13,13,Non-Gen Z
+Poland,d_age_poland,4,60-74,9,9,Non-Gen Z
+Poland,d_age_poland,9,Refused (DO NOT READ),5,5,
+poland,d_age_poland,5,75+,0,0,Non-Gen Z
+poland,d_age_poland,8,Don't know (DO NOT READ),0,0,
+safrica,d_age_safrica,1,18-29,0,0,Gen Z
+safrica,d_age_safrica,2,30-44,0,0,Non-Gen Z
+safrica,d_age_safrica,3,45-59,0,0,Non-Gen Z
+safrica,d_age_safrica,4,60-74,0,0,Non-Gen Z
+safrica,d_age_safrica,5,75+,0,0,Non-Gen Z
+safrica,d_age_safrica,8,Don't know (DO NOT READ),0,0,
+safrica,d_age_safrica,9,Refused (DO NOT READ),0,0,
+skorea,d_age_skorea,1,18-24,0,0,Gen Z
+skorea,d_age_skorea,2,25-34,0,0,
+skorea,d_age_skorea,3,35-44,0,0,Non-Gen Z
+skorea,d_age_skorea,4,45-54,0,0,Non-Gen Z
+skorea,d_age_skorea,5,55+,0,0,Non-Gen Z
+skorea,d_age_skorea,8,Don't know (DO NOT READ),0,0,
+skorea,d_age_skorea,9,Refused (DO NOT READ),0,0,
+Spain,d_age_spain,3,40-49,3,3,Non-Gen Z
+Spain,d_age_spain,4,50+,8,8,Non-Gen Z
+Spain,d_age_spain,8,Don't know (DO NOT READ),1,1,
+Spain,d_age_spain,9,Refused (DO NOT READ),2,2,
+spain,d_age_spain,1,18-29,0,0,Gen Z
+spain,d_age_spain,2,30-39,0,0,Non-Gen Z
+Sweden,d_age_sweden,3,45-64,1,1,Non-Gen Z
+sweden,d_age_sweden,1,18-29,0,0,Gen Z
+sweden,d_age_sweden,2,30-44,0,0,Non-Gen Z
+sweden,d_age_sweden,4,65-84,0,0,Non-Gen Z
+sweden,d_age_sweden,5,85+,0,0,Non-Gen Z
+sweden,d_age_sweden,8,Don't know (DO NOT READ),0,0,
+sweden,d_age_sweden,9,Refused (DO NOT READ),0,0,
+Turkey,d_age_turkey,9,Refused (DO NOT READ),4,4,
+turkey,d_age_turkey,1,18-24,0,0,Gen Z
+turkey,d_age_turkey,2,25-34,0,0,
+turkey,d_age_turkey,3,35-44,0,0,Non-Gen Z
+turkey,d_age_turkey,4,45-54,0,0,Non-Gen Z
+turkey,d_age_turkey,5,55+,0,0,Non-Gen Z
+turkey,d_age_turkey,8,Don't know (DO NOT READ),0,0,
+UK,d_age_uk,1,18-29,4,4,Gen Z
+UK,d_age_uk,2,30-44,14,14,Non-Gen Z
+UK,d_age_uk,3,45-59,12,12,Non-Gen Z
+UK,d_age_uk,4,60-74,15,15,Non-Gen Z
+UK,d_age_uk,5,75+,10,10,Non-Gen Z
+UK,d_age_uk,9,Refused (DO NOT READ),3,3,
+uk,d_age_uk,8,Don't know (DO NOT READ),0,0,

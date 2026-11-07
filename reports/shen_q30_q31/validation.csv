@@ -1,0 +1,35 @@
+check,status,detail
+total_records,PASS,"raw=28333, clean=28333"
+raw_primary_key,PASS,country+id non-null and unique
+clean_primary_key,PASS,country+id non-null and unique
+country_counts,PASS,all 24 country counts compared
+key_set,PASS,no added or missing keys
+clean_schema,PASS,expected 26 baseline columns; actual=26; missing=[]; extra=[]
+weight_unchanged,PASS,exact numeric equality after key join
+weight_valid,PASS,range=0.06078851..5.89236761
+country_names,PASS,SAV value labels
+ai_heard_raw_exact,PASS,all raw answers preserved including 8/9
+ai_heard_recoding,PASS,DK/Refused count=808
+ai_heard_valid_codes,PASS,no null or unknown raw responses
+ai_cncexc_raw_exact,PASS,all raw answers preserved including 8/9
+ai_cncexc_recoding,PASS,DK/Refused count=1964
+ai_cncexc_valid_codes,PASS,no null or unknown raw responses
+aireg_us_not_sure_preserved,PASS,code 8 retained n=3112
+aireg_china_not_sure_preserved,PASS,code 8 retained n=3376
+aireg_eu_not_sure_preserved,PASS,code 8 retained n=4019
+aireg_country_not_sure_preserved,PASS,code 8 retained n=2946
+generation_thresholds,PASS,18-29 vs 30+; Australia uses wholly contained bands; non-AU age refusals unclassified
+age_recoding,PASS,97 remains top-coded; 98/99 missing
+age_band_australia,PASS,original Australia band codes and missingness preserved
+age_band_refusers,PASS,country-specific original band codes; no common numeric scale implied
+assigned_age_provenance,PASS,"baseline exact age outside Australia; max band endpoint in Australia, not an observed exact age"
+age_from_band,PASS,derived band provenance flag exact
+gender_preserved,PASS,"existing baseline: original non-AU field, Australia-specific recoding; excluded from analysis"
+internetfreq_recoding,PASS,country structural missingness and DK/Refused recoding preserved
+political_scale2_direction_and_values,PASS,0 left/progressive -> 6 right/conservative; source originals remain in SAV
+political_scale3_direction_and_values,PASS,0 left/progressive -> 6 right/conservative; source originals remain in SAV
+ideology_combination,PASS,directionally aligned; conceptual equivalence is not established
+education_output_domain,PASS,existing crosswalk preserved; substantive ISCED approval belongs to education owner
+education_source_code,PASS,country-specific original completed-education codes after label-defined missing recoding
+education_country_key,PASS,country-specific education field provenance preserved
+education_existing_mapping,PASS,mechanical equality to tracked upstream Data/Output/educ_mapping.csv; not substantive ISCED approval

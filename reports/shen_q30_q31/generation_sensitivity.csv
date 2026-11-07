@@ -1,0 +1,577 @@
+policy,country,generation,question,metric,denominator,n,n_dk,weight_sum,weighted_pct,unweighted_pct
+baseline,Canada,Gen Z,Q30,Heard a lot,all_including_dk,102,0,173.71348008,57.57959339,59.80392157
+baseline,Canada,Gen Z,Q30,Heard a lot,substantive_only,102,0,173.71348008,57.57959339,59.80392157
+baseline,Canada,Gen Z,Q30,Heard at least a little,all_including_dk,102,0,173.71348008,94.22964670,95.09803922
+baseline,Canada,Gen Z,Q30,Heard at least a little,substantive_only,102,0,173.71348008,94.22964670,95.09803922
+baseline,Canada,Gen Z,Q31,More excited than concerned,all_including_dk,102,0,173.71348008,17.06368193,18.62745098
+baseline,Canada,Gen Z,Q31,More excited than concerned,substantive_only,102,0,173.71348008,17.06368193,18.62745098
+baseline,Canada,Non-Gen Z,Q30,Heard a lot,all_including_dk,873,2,803.28200092,37.36118423,40.66437572
+baseline,Canada,Non-Gen Z,Q30,Heard a lot,substantive_only,871,0,801.41042329,37.44843585,40.75774971
+baseline,Canada,Non-Gen Z,Q30,Heard at least a little,all_including_dk,873,2,803.28200092,90.82073834,92.78350515
+baseline,Canada,Non-Gen Z,Q30,Heard at least a little,substantive_only,871,0,801.41042329,91.03283699,92.99655568
+baseline,Canada,Non-Gen Z,Q31,More excited than concerned,all_including_dk,873,10,803.28200092,7.19837744,7.78923253
+baseline,Canada,Non-Gen Z,Q31,More excited than concerned,substantive_only,863,0,790.34987561,7.31616112,7.87949015
+baseline,France,Gen Z,Q30,Heard a lot,all_including_dk,125,0,166.35140886,77.78165588,81.60000000
+baseline,France,Gen Z,Q30,Heard a lot,substantive_only,125,0,166.35140886,77.78165588,81.60000000
+baseline,France,Gen Z,Q30,Heard at least a little,all_including_dk,125,0,166.35140886,97.80431649,98.40000000
+baseline,France,Gen Z,Q30,Heard at least a little,substantive_only,125,0,166.35140886,97.80431649,98.40000000
+baseline,France,Gen Z,Q31,More excited than concerned,all_including_dk,125,0,166.35140886,19.66070561,26.40000000
+baseline,France,Gen Z,Q31,More excited than concerned,substantive_only,125,0,166.35140886,19.66070561,26.40000000
+baseline,France,Non-Gen Z,Q30,Heard a lot,all_including_dk,871,1,832.19762808,46.17973635,47.87600459
+baseline,France,Non-Gen Z,Q30,Heard a lot,substantive_only,870,0,832.00794532,46.19026450,47.93103448
+baseline,France,Non-Gen Z,Q30,Heard at least a little,all_including_dk,871,1,832.19762808,90.32089749,92.88174512
+baseline,France,Non-Gen Z,Q30,Heard at least a little,substantive_only,870,0,832.00794532,90.34148902,92.98850575
+baseline,France,Non-Gen Z,Q31,More excited than concerned,all_including_dk,871,12,832.19762808,13.44282206,12.16991963
+baseline,France,Non-Gen Z,Q31,More excited than concerned,substantive_only,859,0,817.50768786,13.68437851,12.33993015
+baseline,Germany,Gen Z,Q30,Heard a lot,all_including_dk,119,0,152.31626411,72.90033055,75.63025210
+baseline,Germany,Gen Z,Q30,Heard a lot,substantive_only,119,0,152.31626411,72.90033055,75.63025210
+baseline,Germany,Gen Z,Q30,Heard at least a little,all_including_dk,119,0,152.31626411,96.32702906,97.47899160
+baseline,Germany,Gen Z,Q30,Heard at least a little,substantive_only,119,0,152.31626411,96.32702906,97.47899160
+baseline,Germany,Gen Z,Q31,More excited than concerned,all_including_dk,119,0,152.31626411,21.98522644,21.84873950
+baseline,Germany,Gen Z,Q31,More excited than concerned,substantive_only,119,0,152.31626411,21.98522644,21.84873950
+baseline,Germany,Non-Gen Z,Q30,Heard a lot,all_including_dk,865,0,836.45609136,47.59957787,49.94219653
+baseline,Germany,Non-Gen Z,Q30,Heard a lot,substantive_only,865,0,836.45609136,47.59957787,49.94219653
+baseline,Germany,Non-Gen Z,Q30,Heard at least a little,all_including_dk,865,0,836.45609136,96.40181433,96.99421965
+baseline,Germany,Non-Gen Z,Q30,Heard at least a little,substantive_only,865,0,836.45609136,96.40181433,96.99421965
+baseline,Germany,Non-Gen Z,Q31,More excited than concerned,all_including_dk,865,9,836.45609136,16.69535347,16.41618497
+baseline,Germany,Non-Gen Z,Q31,More excited than concerned,substantive_only,856,0,826.87448656,16.88881485,16.58878505
+baseline,Greece,Gen Z,Q30,Heard a lot,all_including_dk,98,0,133.80609987,74.88306044,72.44897959
+baseline,Greece,Gen Z,Q30,Heard a lot,substantive_only,98,0,133.80609987,74.88306044,72.44897959
+baseline,Greece,Gen Z,Q30,Heard at least a little,all_including_dk,98,0,133.80609987,99.19248108,98.97959184
+baseline,Greece,Gen Z,Q30,Heard at least a little,substantive_only,98,0,133.80609987,99.19248108,98.97959184
+baseline,Greece,Gen Z,Q31,More excited than concerned,all_including_dk,98,0,133.80609987,17.45227972,22.44897959
+baseline,Greece,Gen Z,Q31,More excited than concerned,substantive_only,98,0,133.80609987,17.45227972,22.44897959
+baseline,Greece,Non-Gen Z,Q30,Heard a lot,all_including_dk,911,3,875.72123523,27.31633099,37.32162459
+baseline,Greece,Non-Gen Z,Q30,Heard a lot,substantive_only,908,0,869.41630533,27.51442660,37.44493392
+baseline,Greece,Non-Gen Z,Q30,Heard at least a little,all_including_dk,911,3,875.72123523,79.92678699,89.57189901
+baseline,Greece,Non-Gen Z,Q30,Heard at least a little,substantive_only,908,0,869.41630533,80.50640895,89.86784141
+baseline,Greece,Non-Gen Z,Q31,More excited than concerned,all_including_dk,911,20,875.72123523,9.33113160,10.31833150
+baseline,Greece,Non-Gen Z,Q31,More excited than concerned,substantive_only,891,0,841.54658650,9.71006266,10.54994388
+baseline,Hungary,Gen Z,Q30,Heard a lot,all_including_dk,80,0,145.32733702,63.94745354,71.25000000
+baseline,Hungary,Gen Z,Q30,Heard a lot,substantive_only,80,0,145.32733702,63.94745354,71.25000000
+baseline,Hungary,Gen Z,Q30,Heard at least a little,all_including_dk,80,0,145.32733702,94.93017870,96.25000000
+baseline,Hungary,Gen Z,Q30,Heard at least a little,substantive_only,80,0,145.32733702,94.93017870,96.25000000
+baseline,Hungary,Gen Z,Q31,More excited than concerned,all_including_dk,80,0,145.32733702,26.36168051,26.25000000
+baseline,Hungary,Gen Z,Q31,More excited than concerned,substantive_only,80,0,145.32733702,26.36168051,26.25000000
+baseline,Hungary,Non-Gen Z,Q30,Heard a lot,all_including_dk,934,2,871.25334169,33.63600528,38.43683084
+baseline,Hungary,Non-Gen Z,Q30,Heard a lot,substantive_only,932,0,870.52690942,33.66407366,38.51931330
+baseline,Hungary,Non-Gen Z,Q30,Heard at least a little,all_including_dk,934,2,871.25334169,90.88208153,93.57601713
+baseline,Hungary,Non-Gen Z,Q30,Heard at least a little,substantive_only,932,0,870.52690942,90.95792028,93.77682403
+baseline,Hungary,Non-Gen Z,Q31,More excited than concerned,all_including_dk,934,18,871.25334169,16.76642498,17.02355460
+baseline,Hungary,Non-Gen Z,Q31,More excited than concerned,substantive_only,916,0,851.46972796,17.15598725,17.35807860
+baseline,Italy,Gen Z,Q30,Heard a lot,all_including_dk,145,0,150.14977824,66.66737892,71.03448276
+baseline,Italy,Gen Z,Q30,Heard a lot,substantive_only,145,0,150.14977824,66.66737892,71.03448276
+baseline,Italy,Gen Z,Q30,Heard at least a little,all_including_dk,145,0,150.14977824,94.76215937,96.55172414
+baseline,Italy,Gen Z,Q30,Heard at least a little,substantive_only,145,0,150.14977824,94.76215937,96.55172414
+baseline,Italy,Gen Z,Q31,More excited than concerned,all_including_dk,145,0,150.14977824,27.49616886,27.58620690
+baseline,Italy,Gen Z,Q31,More excited than concerned,substantive_only,145,0,150.14977824,27.49616886,27.58620690
+baseline,Italy,Non-Gen Z,Q30,Heard a lot,all_including_dk,853,2,850.95216453,41.23424532,49.35521688
+baseline,Italy,Non-Gen Z,Q30,Heard a lot,substantive_only,851,0,850.13268657,41.27399271,49.47121034
+baseline,Italy,Non-Gen Z,Q30,Heard at least a little,all_including_dk,853,2,850.95216453,90.71082345,94.84173505
+baseline,Italy,Non-Gen Z,Q30,Heard at least a little,substantive_only,851,0,850.13268657,90.79826335,95.06462985
+baseline,Italy,Non-Gen Z,Q31,More excited than concerned,all_including_dk,853,8,850.95216453,9.54507763,13.36459555
+baseline,Italy,Non-Gen Z,Q31,More excited than concerned,substantive_only,845,0,834.33833528,9.73514476,13.49112426
+baseline,Netherlands,Gen Z,Q30,Heard a lot,all_including_dk,107,0,183.25409174,63.52281771,65.42056075
+baseline,Netherlands,Gen Z,Q30,Heard a lot,substantive_only,107,0,183.25409174,63.52281771,65.42056075
+baseline,Netherlands,Gen Z,Q30,Heard at least a little,all_including_dk,107,0,183.25409174,84.87467547,87.85046729
+baseline,Netherlands,Gen Z,Q30,Heard at least a little,substantive_only,107,0,183.25409174,84.87467547,87.85046729
+baseline,Netherlands,Gen Z,Q31,More excited than concerned,all_including_dk,107,1,183.25409174,26.99414544,29.90654206
+baseline,Netherlands,Gen Z,Q31,More excited than concerned,substantive_only,106,0,180.35971354,27.42734232,30.18867925
+baseline,Netherlands,Non-Gen Z,Q30,Heard a lot,all_including_dk,885,3,808.56686448,41.93611527,46.55367232
+baseline,Netherlands,Non-Gen Z,Q30,Heard a lot,substantive_only,882,0,805.83853526,42.07809846,46.71201814
+baseline,Netherlands,Non-Gen Z,Q30,Heard at least a little,all_including_dk,885,3,808.56686448,90.39706618,92.54237288
+baseline,Netherlands,Non-Gen Z,Q30,Heard at least a little,substantive_only,882,0,805.83853526,90.70312372,92.85714286
+baseline,Netherlands,Non-Gen Z,Q31,More excited than concerned,all_including_dk,885,12,808.56686448,13.87438147,14.68926554
+baseline,Netherlands,Non-Gen Z,Q31,More excited than concerned,substantive_only,873,0,797.21797118,14.07189191,14.89117984
+baseline,Poland,Gen Z,Q30,Heard a lot,all_including_dk,130,0,156.92021439,65.97181318,66.92307692
+baseline,Poland,Gen Z,Q30,Heard a lot,substantive_only,130,0,156.92021439,65.97181318,66.92307692
+baseline,Poland,Gen Z,Q30,Heard at least a little,all_including_dk,130,0,156.92021439,91.77564323,95.38461538
+baseline,Poland,Gen Z,Q30,Heard at least a little,substantive_only,130,0,156.92021439,91.77564323,95.38461538
+baseline,Poland,Gen Z,Q31,More excited than concerned,all_including_dk,130,1,156.92021439,30.40474587,31.53846154
+baseline,Poland,Gen Z,Q31,More excited than concerned,substantive_only,129,0,155.27863196,30.72618029,31.78294574
+baseline,Poland,Non-Gen Z,Q30,Heard a lot,all_including_dk,835,0,815.68263433,28.27508151,34.25149701
+baseline,Poland,Non-Gen Z,Q30,Heard a lot,substantive_only,835,0,815.68263433,28.27508151,34.25149701
+baseline,Poland,Non-Gen Z,Q30,Heard at least a little,all_including_dk,835,0,815.68263433,86.13576897,90.53892216
+baseline,Poland,Non-Gen Z,Q30,Heard at least a little,substantive_only,835,0,815.68263433,86.13576897,90.53892216
+baseline,Poland,Non-Gen Z,Q31,More excited than concerned,all_including_dk,835,56,815.68263433,12.19062308,14.37125749
+baseline,Poland,Non-Gen Z,Q31,More excited than concerned,substantive_only,779,0,754.36459453,13.18153001,15.40436457
+baseline,Spain,Gen Z,Q30,Heard a lot,all_including_dk,137,0,143.60814571,57.93886359,59.85401460
+baseline,Spain,Gen Z,Q30,Heard a lot,substantive_only,137,0,143.60814571,57.93886359,59.85401460
+baseline,Spain,Gen Z,Q30,Heard at least a little,all_including_dk,137,0,143.60814571,95.51346812,97.08029197
+baseline,Spain,Gen Z,Q30,Heard at least a little,substantive_only,137,0,143.60814571,95.51346812,97.08029197
+baseline,Spain,Gen Z,Q31,More excited than concerned,all_including_dk,137,1,143.60814571,37.27464306,37.22627737
+baseline,Spain,Gen Z,Q31,More excited than concerned,substantive_only,136,0,142.93751580,37.44952710,37.50000000
+baseline,Spain,Non-Gen Z,Q30,Heard a lot,all_including_dk,850,1,842.16339935,25.66080589,31.76470588
+baseline,Spain,Non-Gen Z,Q30,Heard a lot,substantive_only,849,0,840.83317858,25.70140197,31.80212014
+baseline,Spain,Non-Gen Z,Q30,Heard at least a little,all_including_dk,850,1,842.16339935,84.56713125,90.35294118
+baseline,Spain,Non-Gen Z,Q30,Heard at least a little,substantive_only,849,0,840.83317858,84.70091873,90.45936396
+baseline,Spain,Non-Gen Z,Q31,More excited than concerned,all_including_dk,850,14,842.16339935,16.10073273,18.35294118
+baseline,Spain,Non-Gen Z,Q31,More excited than concerned,substantive_only,836,0,812.92390309,16.67984882,18.66028708
+baseline,Sweden,Gen Z,Q30,Heard a lot,all_including_dk,126,0,167.98846911,69.07411016,70.63492063
+baseline,Sweden,Gen Z,Q30,Heard a lot,substantive_only,126,0,167.98846911,69.07411016,70.63492063
+baseline,Sweden,Gen Z,Q30,Heard at least a little,all_including_dk,126,0,167.98846911,95.32842143,95.23809524
+baseline,Sweden,Gen Z,Q30,Heard at least a little,substantive_only,126,0,167.98846911,95.32842143,95.23809524
+baseline,Sweden,Gen Z,Q31,More excited than concerned,all_including_dk,126,2,167.98846911,25.50784151,26.19047619
+baseline,Sweden,Gen Z,Q31,More excited than concerned,substantive_only,124,0,166.10100749,25.79769569,26.61290323
+baseline,Sweden,Non-Gen Z,Q30,Heard a lot,all_including_dk,874,3,831.97305234,41.89391255,45.19450801
+baseline,Sweden,Non-Gen Z,Q30,Heard a lot,substantive_only,871,0,829.35469675,42.02617582,45.35017222
+baseline,Sweden,Non-Gen Z,Q30,Heard at least a little,all_including_dk,874,3,831.97305234,90.77941230,92.10526316
+baseline,Sweden,Non-Gen Z,Q30,Heard at least a little,substantive_only,871,0,829.35469675,91.06601197,92.42250287
+baseline,Sweden,Non-Gen Z,Q31,More excited than concerned,all_including_dk,874,19,831.97305234,21.41422818,23.91304348
+baseline,Sweden,Non-Gen Z,Q31,More excited than concerned,substantive_only,855,0,810.55472917,21.98008369,24.44444444
+baseline,UK,Gen Z,Q30,Heard a lot,all_including_dk,162,1,189.47858083,55.68294534,62.96296296
+baseline,UK,Gen Z,Q30,Heard a lot,substantive_only,161,0,186.17544441,56.67087565,63.35403727
+baseline,UK,Gen Z,Q30,Heard at least a little,all_including_dk,162,1,189.47858083,93.31113014,96.29629630
+baseline,UK,Gen Z,Q30,Heard at least a little,substantive_only,161,0,186.17544441,94.96666206,96.89440994
+baseline,UK,Gen Z,Q31,More excited than concerned,all_including_dk,162,1,189.47858083,17.42244544,20.98765432
+baseline,UK,Gen Z,Q31,More excited than concerned,substantive_only,161,0,186.17544441,17.73155556,21.11801242
+baseline,UK,Non-Gen Z,Q30,Heard a lot,all_including_dk,786,1,764.97692771,36.97237030,40.33078880
+baseline,UK,Non-Gen Z,Q30,Heard a lot,substantive_only,785,0,763.36631702,37.05037754,40.38216561
+baseline,UK,Non-Gen Z,Q30,Heard at least a little,all_including_dk,786,1,764.97692771,89.36698923,89.44020356
+baseline,UK,Non-Gen Z,Q30,Heard at least a little,substantive_only,785,0,763.36631702,89.55554277,89.55414013
+baseline,UK,Non-Gen Z,Q31,More excited than concerned,all_including_dk,786,14,764.97692771,11.60364667,10.30534351
+baseline,UK,Non-Gen Z,Q31,More excited than concerned,substantive_only,772,0,751.74700939,11.80785805,10.49222798
+baseline,Australia,Gen Z,Q30,Heard a lot,all_including_dk,326,1,361.92964062,66.66210440,67.79141104
+baseline,Australia,Gen Z,Q30,Heard a lot,substantive_only,325,0,360.29988890,66.96363844,68.00000000
+baseline,Australia,Gen Z,Q30,Heard at least a little,all_including_dk,326,1,361.92964062,98.06315688,97.85276074
+baseline,Australia,Gen Z,Q30,Heard at least a little,substantive_only,325,0,360.29988890,98.50672793,98.15384615
+baseline,Australia,Gen Z,Q31,More excited than concerned,all_including_dk,326,1,361.92964062,16.49263646,16.56441718
+baseline,Australia,Gen Z,Q31,More excited than concerned,substantive_only,325,0,361.14785296,16.52833857,16.61538462
+baseline,Australia,Non-Gen Z,Q30,Heard a lot,all_including_dk,1501,1,1462.79974893,38.10461228,37.84143904
+baseline,Australia,Non-Gen Z,Q30,Heard a lot,substantive_only,1500,0,1461.87104061,38.12881966,37.86666667
+baseline,Australia,Non-Gen Z,Q30,Heard at least a little,all_including_dk,1501,1,1462.79974893,96.83068083,96.66888741
+baseline,Australia,Non-Gen Z,Q30,Heard at least a little,substantive_only,1500,0,1461.87104061,96.89219615,96.73333333
+baseline,Australia,Non-Gen Z,Q31,More excited than concerned,all_including_dk,1501,5,1462.79974893,11.73031809,11.32578281
+baseline,Australia,Non-Gen Z,Q31,More excited than concerned,substantive_only,1496,0,1459.12127397,11.75989047,11.36363636
+baseline,India,Gen Z,Q30,Heard a lot,all_including_dk,1083,101,1166.91236414,20.35183764,22.43767313
+baseline,India,Gen Z,Q30,Heard a lot,substantive_only,982,0,1026.71273713,23.13092077,24.74541752
+baseline,India,Gen Z,Q30,Heard at least a little,all_including_dk,1083,101,1166.91236414,58.24418037,62.78855032
+baseline,India,Gen Z,Q30,Heard at least a little,substantive_only,982,0,1026.71273713,66.19753681,69.24643585
+baseline,India,Gen Z,Q31,More excited than concerned,all_including_dk,1083,168,1166.91236414,19.99017033,20.59095106
+baseline,India,Gen Z,Q31,More excited than concerned,substantive_only,915,0,960.83579940,24.27758929,24.37158470
+baseline,India,Non-Gen Z,Q30,Heard a lot,all_including_dk,2458,372,2372.17634899,10.88551556,14.97152156
+baseline,India,Non-Gen Z,Q30,Heard a lot,substantive_only,2086,0,1844.36881146,14.00065020,17.64141898
+baseline,India,Non-Gen Z,Q30,Heard at least a little,all_including_dk,2458,372,2372.17634899,39.47432302,51.17982099
+baseline,India,Non-Gen Z,Q30,Heard at least a little,substantive_only,2086,0,1844.36881146,50.77078667,60.30680729
+baseline,India,Non-Gen Z,Q31,More excited than concerned,all_including_dk,2458,573,2372.17634899,14.67972368,17.37184703
+baseline,India,Non-Gen Z,Q31,More excited than concerned,substantive_only,1885,0,1672.80424896,20.81707609,22.65251989
+baseline,Indonesia,Gen Z,Q30,Heard a lot,all_including_dk,318,2,291.63689458,33.47173537,33.96226415
+baseline,Indonesia,Gen Z,Q30,Heard a lot,substantive_only,316,0,287.71495969,33.92799933,34.17721519
+baseline,Indonesia,Gen Z,Q30,Heard at least a little,all_including_dk,318,2,291.63689458,78.14928374,79.55974843
+baseline,Indonesia,Gen Z,Q30,Heard at least a little,substantive_only,316,0,287.71495969,79.21456169,80.06329114
+baseline,Indonesia,Gen Z,Q31,More excited than concerned,all_including_dk,318,9,291.63689458,13.21044852,14.15094340
+baseline,Indonesia,Gen Z,Q31,More excited than concerned,substantive_only,309,0,284.76224684,13.52937134,14.56310680
+baseline,Indonesia,Non-Gen Z,Q30,Heard a lot,all_including_dk,704,19,730.36310542,12.07498797,14.63068182
+baseline,Indonesia,Non-Gen Z,Q30,Heard a lot,substantive_only,685,0,702.87007701,12.54730568,15.03649635
+baseline,Indonesia,Non-Gen Z,Q30,Heard at least a little,all_including_dk,704,19,730.36310542,44.53723317,51.27840909
+baseline,Indonesia,Non-Gen Z,Q30,Heard at least a little,substantive_only,685,0,702.87007701,46.27932386,52.70072993
+baseline,Indonesia,Non-Gen Z,Q31,More excited than concerned,all_including_dk,704,35,730.36310542,14.11302269,12.64204545
+baseline,Indonesia,Non-Gen Z,Q31,More excited than concerned,substantive_only,669,0,684.25145566,15.06409814,13.30343797
+baseline,Japan,Gen Z,Q30,Heard a lot,all_including_dk,109,0,134.30115159,81.62695165,81.65137615
+baseline,Japan,Gen Z,Q30,Heard a lot,substantive_only,109,0,134.30115159,81.62695165,81.65137615
+baseline,Japan,Gen Z,Q30,Heard at least a little,all_including_dk,109,0,134.30115159,97.84144477,97.24770642
+baseline,Japan,Gen Z,Q30,Heard at least a little,substantive_only,109,0,134.30115159,97.84144477,97.24770642
+baseline,Japan,Gen Z,Q31,More excited than concerned,all_including_dk,109,1,134.30115159,26.28340450,29.35779817
+baseline,Japan,Gen Z,Q31,More excited than concerned,substantive_only,108,0,133.53021809,26.43515110,29.62962963
+baseline,Japan,Non-Gen Z,Q30,Heard a lot,all_including_dk,827,2,797.05302905,47.36028009,51.02781137
+baseline,Japan,Non-Gen Z,Q30,Heard a lot,substantive_only,825,0,795.33214492,47.46275495,51.15151515
+baseline,Japan,Non-Gen Z,Q30,Heard at least a little,all_including_dk,827,2,797.05302905,87.19626910,87.66626360
+baseline,Japan,Non-Gen Z,Q30,Heard at least a little,substantive_only,825,0,795.33214492,87.38493830,87.87878788
+baseline,Japan,Non-Gen Z,Q31,More excited than concerned,all_including_dk,827,10,797.05302905,14.47663463,14.51027811
+baseline,Japan,Non-Gen Z,Q31,More excited than concerned,substantive_only,817,0,784.83507292,14.70200030,14.68788250
+baseline,South Korea,Gen Z,Q30,Heard a lot,all_including_dk,80,0,145.71340689,56.23244806,58.75000000
+baseline,South Korea,Gen Z,Q30,Heard a lot,substantive_only,80,0,145.71340689,56.23244806,58.75000000
+baseline,South Korea,Gen Z,Q30,Heard at least a little,all_including_dk,80,0,145.71340689,100.00000000,100.00000000
+baseline,South Korea,Gen Z,Q30,Heard at least a little,substantive_only,80,0,145.71340689,100.00000000,100.00000000
+baseline,South Korea,Gen Z,Q31,More excited than concerned,all_including_dk,80,0,145.71340689,32.13138821,36.25000000
+baseline,South Korea,Gen Z,Q31,More excited than concerned,substantive_only,80,0,145.71340689,32.13138821,36.25000000
+baseline,South Korea,Non-Gen Z,Q30,Heard a lot,all_including_dk,962,4,896.28659311,15.05384743,17.67151767
+baseline,South Korea,Non-Gen Z,Q30,Heard a lot,substantive_only,958,0,887.92673533,15.19557987,17.74530271
+baseline,South Korea,Non-Gen Z,Q30,Heard at least a little,all_including_dk,962,4,896.28659311,74.37531019,79.83367983
+baseline,South Korea,Non-Gen Z,Q30,Heard at least a little,substantive_only,958,0,887.92673533,75.07555604,80.16701461
+baseline,South Korea,Non-Gen Z,Q31,More excited than concerned,all_including_dk,962,4,896.28659311,20.71492603,24.32432432
+baseline,South Korea,Non-Gen Z,Q31,More excited than concerned,substantive_only,958,0,890.99821083,20.83787627,24.42588727
+baseline,Israel,Gen Z,Q30,Heard a lot,all_including_dk,239,5,257.52855369,53.67131696,54.39330544
+baseline,Israel,Gen Z,Q30,Heard a lot,substantive_only,234,0,252.71473164,54.69367196,55.55555556
+baseline,Israel,Gen Z,Q30,Heard at least a little,all_including_dk,239,5,257.52855369,86.47042338,85.35564854
+baseline,Israel,Gen Z,Q30,Heard at least a little,substantive_only,234,0,252.71473164,88.11755027,87.17948718
+baseline,Israel,Gen Z,Q31,More excited than concerned,all_including_dk,239,22,257.52855369,48.37826108,46.86192469
+baseline,Israel,Gen Z,Q31,More excited than concerned,substantive_only,217,0,233.41139937,53.37692863,51.61290323
+baseline,Israel,Non-Gen Z,Q30,Heard a lot,all_including_dk,759,16,740.47144631,30.11391831,31.09354414
+baseline,Israel,Non-Gen Z,Q30,Heard a lot,substantive_only,743,0,725.21189708,30.74756045,31.76312248
+baseline,Israel,Non-Gen Z,Q30,Heard at least a little,all_including_dk,759,16,740.47144631,78.23359326,78.65612648
+baseline,Israel,Non-Gen Z,Q30,Heard at least a little,substantive_only,743,0,725.21189708,79.87974575,80.34993271
+baseline,Israel,Non-Gen Z,Q31,More excited than concerned,all_including_dk,759,151,740.47144631,22.06137728,21.60737813
+baseline,Israel,Non-Gen Z,Q31,More excited than concerned,substantive_only,608,0,607.00128247,26.91233184,26.97368421
+baseline,Turkey,Gen Z,Q30,Heard a lot,all_including_dk,329,2,292.85263494,35.60250734,35.86626140
+baseline,Turkey,Gen Z,Q30,Heard a lot,substantive_only,327,0,291.95337627,35.71216822,36.08562691
+baseline,Turkey,Gen Z,Q30,Heard at least a little,all_including_dk,329,2,292.85263494,89.94161424,89.36170213
+baseline,Turkey,Gen Z,Q30,Heard at least a little,substantive_only,327,0,291.95337627,90.21864744,89.90825688
+baseline,Turkey,Gen Z,Q31,More excited than concerned,all_including_dk,329,15,292.85263494,27.23734389,27.65957447
+baseline,Turkey,Gen Z,Q31,More excited than concerned,substantive_only,314,0,276.28137403,28.87103033,28.98089172
+baseline,Turkey,Non-Gen Z,Q30,Heard a lot,all_including_dk,715,49,749.36982303,12.28205799,15.66433566
+baseline,Turkey,Non-Gen Z,Q30,Heard a lot,substantive_only,666,0,680.30610796,13.52891517,16.81681682
+baseline,Turkey,Non-Gen Z,Q30,Heard at least a little,all_including_dk,715,49,749.36982303,60.03873111,70.20979021
+baseline,Turkey,Non-Gen Z,Q30,Heard at least a little,substantive_only,666,0,680.30610796,66.13377828,75.37537538
+baseline,Turkey,Non-Gen Z,Q31,More excited than concerned,all_including_dk,715,131,749.36982303,16.37007861,18.32167832
+baseline,Turkey,Non-Gen Z,Q31,More excited than concerned,substantive_only,584,0,562.46640142,21.80973456,22.43150685
+baseline,Kenya,Gen Z,Q30,Heard a lot,all_including_dk,560,5,434.01084708,15.26699635,16.07142857
+baseline,Kenya,Gen Z,Q30,Heard a lot,substantive_only,555,0,429.07484584,15.44262518,16.21621622
+baseline,Kenya,Gen Z,Q30,Heard at least a little,all_including_dk,560,5,434.01084708,58.19864979,57.85714286
+baseline,Kenya,Gen Z,Q30,Heard at least a little,substantive_only,555,0,429.07484584,58.86815678,58.37837838
+baseline,Kenya,Gen Z,Q31,More excited than concerned,all_including_dk,560,23,434.01084708,20.78821338,17.85714286
+baseline,Kenya,Gen Z,Q31,More excited than concerned,substantive_only,537,0,417.20868461,21.62541297,18.62197393
+baseline,Kenya,Non-Gen Z,Q30,Heard a lot,all_including_dk,489,17,614.98915292,9.13136687,11.04294479
+baseline,Kenya,Non-Gen Z,Q30,Heard a lot,substantive_only,472,0,580.74410003,9.66982114,11.44067797
+baseline,Kenya,Non-Gen Z,Q30,Heard at least a little,all_including_dk,489,17,614.98915292,39.95660089,46.42126789
+baseline,Kenya,Non-Gen Z,Q30,Heard at least a little,substantive_only,472,0,580.74410003,42.31274348,48.09322034
+baseline,Kenya,Non-Gen Z,Q31,More excited than concerned,all_including_dk,489,56,614.98915292,14.01963045,13.29243354
+baseline,Kenya,Non-Gen Z,Q31,More excited than concerned,substantive_only,433,0,530.58935828,16.24970520,15.01154734
+baseline,Nigeria,Gen Z,Q30,Heard a lot,all_including_dk,460,29,462.00636830,19.66812689,21.30434783
+baseline,Nigeria,Gen Z,Q30,Heard a lot,substantive_only,431,0,429.65541489,21.14904074,22.73781903
+baseline,Nigeria,Gen Z,Q30,Heard at least a little,all_including_dk,460,29,462.00636830,69.27376111,70.21739130
+baseline,Nigeria,Gen Z,Q30,Heard at least a little,substantive_only,431,0,429.65541489,74.48973684,74.94199536
+baseline,Nigeria,Gen Z,Q31,More excited than concerned,all_including_dk,460,76,462.00636830,22.63775918,23.91304348
+baseline,Nigeria,Gen Z,Q31,More excited than concerned,substantive_only,384,0,382.02507102,27.37723175,28.64583333
+baseline,Nigeria,Non-Gen Z,Q30,Heard a lot,all_including_dk,576,28,574.29464213,15.68706920,17.01388889
+baseline,Nigeria,Non-Gen Z,Q30,Heard a lot,substantive_only,548,0,543.07699114,16.58880773,17.88321168
+baseline,Nigeria,Non-Gen Z,Q30,Heard at least a little,all_including_dk,576,28,574.29464213,56.01441364,58.85416667
+baseline,Nigeria,Non-Gen Z,Q30,Heard at least a little,substantive_only,548,0,543.07699114,59.23428567,61.86131387
+baseline,Nigeria,Non-Gen Z,Q31,More excited than concerned,all_including_dk,576,119,574.29464213,18.73918724,18.92361111
+baseline,Nigeria,Non-Gen Z,Q31,More excited than concerned,substantive_only,457,0,445.77317091,24.14190789,23.85120350
+baseline,South Africa,Gen Z,Q30,Heard a lot,all_including_dk,493,17,582.07797467,34.77946864,33.26572008
+baseline,South Africa,Gen Z,Q30,Heard a lot,substantive_only,476,0,569.99931026,35.51646871,34.45378151
+baseline,South Africa,Gen Z,Q30,Heard at least a little,all_including_dk,493,17,582.07797467,66.41990954,65.11156187
+baseline,South Africa,Gen Z,Q30,Heard at least a little,substantive_only,476,0,569.99931026,67.82739159,67.43697479
+baseline,South Africa,Gen Z,Q31,More excited than concerned,all_including_dk,493,37,582.07797467,22.64192117,22.51521298
+baseline,South Africa,Gen Z,Q31,More excited than concerned,substantive_only,456,0,545.39866476,24.16464225,24.34210526
+baseline,South Africa,Non-Gen Z,Q30,Heard a lot,all_including_dk,1077,94,987.92202533,26.54486951,26.46239554
+baseline,South Africa,Non-Gen Z,Q30,Heard a lot,substantive_only,983,0,910.16879551,28.81252508,28.99287894
+baseline,South Africa,Non-Gen Z,Q30,Heard at least a little,all_including_dk,1077,94,987.92202533,57.17641467,55.52460539
+baseline,South Africa,Non-Gen Z,Q30,Heard at least a little,substantive_only,983,0,910.16879551,62.06083933,60.83418108
+baseline,South Africa,Non-Gen Z,Q31,More excited than concerned,all_including_dk,1077,140,987.92202533,15.71038064,16.43454039
+baseline,South Africa,Non-Gen Z,Q31,More excited than concerned,substantive_only,937,0,863.77741773,17.96832233,18.89007471
+baseline,Argentina,Gen Z,Q30,Heard a lot,all_including_dk,237,1,254.60711004,38.22000518,36.28691983
+baseline,Argentina,Gen Z,Q30,Heard a lot,substantive_only,236,0,252.24256121,38.57828361,36.44067797
+baseline,Argentina,Gen Z,Q30,Heard at least a little,all_including_dk,237,1,254.60711004,81.31787016,81.43459916
+baseline,Argentina,Gen Z,Q30,Heard at least a little,substantive_only,236,0,252.24256121,82.08015260,81.77966102
+baseline,Argentina,Gen Z,Q31,More excited than concerned,all_including_dk,237,11,254.60711004,20.23679872,19.83122363
+baseline,Argentina,Gen Z,Q31,More excited than concerned,substantive_only,226,0,241.95940972,21.29461650,20.79646018
+baseline,Argentina,Non-Gen Z,Q30,Heard a lot,all_including_dk,764,1,746.39288996,18.91418665,19.50261780
+baseline,Argentina,Non-Gen Z,Q30,Heard a lot,substantive_only,763,0,744.02834113,18.97429661,19.52817824
+baseline,Argentina,Non-Gen Z,Q30,Heard at least a little,all_including_dk,764,1,746.39288996,68.85421428,70.68062827
+baseline,Argentina,Non-Gen Z,Q30,Heard at least a little,substantive_only,763,0,744.02834113,69.07303545,70.77326343
+baseline,Argentina,Non-Gen Z,Q31,More excited than concerned,all_including_dk,764,53,746.39288996,10.37733806,10.47120419
+baseline,Argentina,Non-Gen Z,Q31,More excited than concerned,substantive_only,711,0,696.14534608,11.12637094,11.25175809
+baseline,Brazil,Gen Z,Q30,Heard a lot,all_including_dk,211,1,246.46041193,38.67698464,37.91469194
+baseline,Brazil,Gen Z,Q30,Heard a lot,substantive_only,210,0,246.03622213,38.74366743,38.09523810
+baseline,Brazil,Gen Z,Q30,Heard at least a little,all_including_dk,211,1,246.46041193,86.25136768,83.88625592
+baseline,Brazil,Gen Z,Q30,Heard at least a little,substantive_only,210,0,246.03622213,86.40007323,84.28571429
+baseline,Brazil,Gen Z,Q31,More excited than concerned,all_including_dk,211,7,246.46041193,13.39681104,12.79620853
+baseline,Brazil,Gen Z,Q31,More excited than concerned,substantive_only,204,0,237.62645542,13.89484837,13.23529412
+baseline,Brazil,Non-Gen Z,Q30,Heard a lot,all_including_dk,842,11,806.53958807,16.36270650,16.38954869
+baseline,Brazil,Non-Gen Z,Q30,Heard a lot,substantive_only,831,0,798.10831367,16.53556332,16.60649819
+baseline,Brazil,Non-Gen Z,Q30,Heard at least a little,all_including_dk,842,11,806.53958807,63.31776087,62.70783848
+baseline,Brazil,Non-Gen Z,Q30,Heard at least a little,substantive_only,831,0,798.10831367,63.98665432,63.53790614
+baseline,Brazil,Non-Gen Z,Q31,More excited than concerned,all_including_dk,842,52,806.53958807,8.63260433,8.55106888
+baseline,Brazil,Non-Gen Z,Q31,More excited than concerned,substantive_only,790,0,760.76338031,9.15204033,9.11392405
+baseline,Mexico,Gen Z,Q30,Heard a lot,all_including_dk,277,0,293.39944826,35.51881372,36.46209386
+baseline,Mexico,Gen Z,Q30,Heard a lot,substantive_only,277,0,293.39944826,35.51881372,36.46209386
+baseline,Mexico,Gen Z,Q30,Heard at least a little,all_including_dk,277,0,293.39944826,88.34727678,89.16967509
+baseline,Mexico,Gen Z,Q30,Heard at least a little,substantive_only,277,0,293.39944826,88.34727678,89.16967509
+baseline,Mexico,Gen Z,Q31,More excited than concerned,all_including_dk,277,4,293.39944826,18.92521787,18.41155235
+baseline,Mexico,Gen Z,Q31,More excited than concerned,substantive_only,273,0,289.31942051,19.19210425,18.68131868
+baseline,Mexico,Non-Gen Z,Q30,Heard a lot,all_including_dk,773,10,756.60055174,13.18676778,12.03104787
+baseline,Mexico,Non-Gen Z,Q30,Heard a lot,substantive_only,763,0,745.59548315,13.38140587,12.18872870
+baseline,Mexico,Non-Gen Z,Q30,Heard at least a little,all_including_dk,773,10,756.60055174,65.82861936,66.36481242
+baseline,Mexico,Non-Gen Z,Q30,Heard at least a little,substantive_only,763,0,745.59548315,66.80025678,67.23460026
+baseline,Mexico,Non-Gen Z,Q31,More excited than concerned,all_including_dk,773,50,756.60055174,10.12766864,8.66752911
+baseline,Mexico,Non-Gen Z,Q31,More excited than concerned,substantive_only,723,0,701.43548826,10.92416880,9.26694329
+unambiguous_bands_sensitivity,Canada,Gen Z,Q30,Heard a lot,all_including_dk,104,0,176.59744260,57.48938366,59.61538462
+unambiguous_bands_sensitivity,Canada,Gen Z,Q30,Heard a lot,substantive_only,104,0,176.59744260,57.48938366,59.61538462
+unambiguous_bands_sensitivity,Canada,Gen Z,Q30,Heard at least a little,all_including_dk,104,0,176.59744260,94.32388070,95.19230769
+unambiguous_bands_sensitivity,Canada,Gen Z,Q30,Heard at least a little,substantive_only,104,0,176.59744260,94.32388070,95.19230769
+unambiguous_bands_sensitivity,Canada,Gen Z,Q31,More excited than concerned,all_including_dk,104,0,176.59744260,16.78501981,18.26923077
+unambiguous_bands_sensitivity,Canada,Gen Z,Q31,More excited than concerned,substantive_only,104,0,176.59744260,16.78501981,18.26923077
+unambiguous_bands_sensitivity,Canada,Non-Gen Z,Q30,Heard a lot,all_including_dk,916,2,843.29184638,37.31398990,40.28384279
+unambiguous_bands_sensitivity,Canada,Non-Gen Z,Q30,Heard a lot,substantive_only,914,0,841.42026875,37.39698770,40.37199125
+unambiguous_bands_sensitivity,Canada,Non-Gen Z,Q30,Heard at least a little,all_including_dk,916,2,843.29184638,91.20176586,93.01310044
+unambiguous_bands_sensitivity,Canada,Non-Gen Z,Q30,Heard at least a little,substantive_only,914,0,841.42026875,91.40462666,93.21663020
+unambiguous_bands_sensitivity,Canada,Non-Gen Z,Q31,More excited than concerned,all_including_dk,916,11,843.29184638,7.47432172,7.75109170
+unambiguous_bands_sensitivity,Canada,Non-Gen Z,Q31,More excited than concerned,substantive_only,905,0,829.73497119,7.59644318,7.84530387
+unambiguous_bands_sensitivity,France,Gen Z,Q30,Heard a lot,all_including_dk,125,0,166.35140886,77.78165588,81.60000000
+unambiguous_bands_sensitivity,France,Gen Z,Q30,Heard a lot,substantive_only,125,0,166.35140886,77.78165588,81.60000000
+unambiguous_bands_sensitivity,France,Gen Z,Q30,Heard at least a little,all_including_dk,125,0,166.35140886,97.80431649,98.40000000
+unambiguous_bands_sensitivity,France,Gen Z,Q30,Heard at least a little,substantive_only,125,0,166.35140886,97.80431649,98.40000000
+unambiguous_bands_sensitivity,France,Gen Z,Q31,More excited than concerned,all_including_dk,125,0,166.35140886,19.66070561,26.40000000
+unambiguous_bands_sensitivity,France,Gen Z,Q31,More excited than concerned,substantive_only,125,0,166.35140886,19.66070561,26.40000000
+unambiguous_bands_sensitivity,France,Non-Gen Z,Q30,Heard a lot,all_including_dk,879,2,838.09903119,46.25296537,47.89533561
+unambiguous_bands_sensitivity,France,Non-Gen Z,Q30,Heard a lot,substantive_only,877,0,836.89891288,46.31929241,48.00456100
+unambiguous_bands_sensitivity,France,Non-Gen Z,Q30,Heard at least a little,all_including_dk,879,2,838.09903119,90.17766259,92.71899886
+unambiguous_bands_sensitivity,France,Non-Gen Z,Q30,Heard at least a little,substantive_only,877,0,836.89891288,90.30697793,92.93044470
+unambiguous_bands_sensitivity,France,Non-Gen Z,Q31,More excited than concerned,all_including_dk,879,13,838.09903119,13.63287835,12.28668942
+unambiguous_bands_sensitivity,France,Non-Gen Z,Q31,More excited than concerned,substantive_only,866,0,822.64787341,13.88893414,12.47113164
+unambiguous_bands_sensitivity,Germany,Gen Z,Q30,Heard a lot,all_including_dk,120,0,153.39732545,72.38656848,75.00000000
+unambiguous_bands_sensitivity,Germany,Gen Z,Q30,Heard a lot,substantive_only,120,0,153.39732545,72.38656848,75.00000000
+unambiguous_bands_sensitivity,Germany,Gen Z,Q30,Heard at least a little,all_including_dk,120,0,153.39732545,96.35291417,97.50000000
+unambiguous_bands_sensitivity,Germany,Gen Z,Q30,Heard at least a little,substantive_only,120,0,153.39732545,96.35291417,97.50000000
+unambiguous_bands_sensitivity,Germany,Gen Z,Q31,More excited than concerned,all_including_dk,120,0,153.39732545,21.83028646,21.66666667
+unambiguous_bands_sensitivity,Germany,Gen Z,Q31,More excited than concerned,substantive_only,120,0,153.39732545,21.83028646,21.66666667
+unambiguous_bands_sensitivity,Germany,Non-Gen Z,Q30,Heard a lot,all_including_dk,879,0,845.32006771,47.52569815,49.82935154
+unambiguous_bands_sensitivity,Germany,Non-Gen Z,Q30,Heard a lot,substantive_only,879,0,845.32006771,47.52569815,49.82935154
+unambiguous_bands_sensitivity,Germany,Non-Gen Z,Q30,Heard at least a little,all_including_dk,879,0,845.32006771,96.36671080,96.92832765
+unambiguous_bands_sensitivity,Germany,Non-Gen Z,Q30,Heard at least a little,substantive_only,879,0,845.32006771,96.36671080,96.92832765
+unambiguous_bands_sensitivity,Germany,Non-Gen Z,Q31,More excited than concerned,all_including_dk,879,9,845.32006771,16.52028698,16.15472127
+unambiguous_bands_sensitivity,Germany,Non-Gen Z,Q31,More excited than concerned,substantive_only,870,0,835.73846291,16.70968937,16.32183908
+unambiguous_bands_sensitivity,Greece,Gen Z,Q30,Heard a lot,all_including_dk,98,0,133.80609987,74.88306044,72.44897959
+unambiguous_bands_sensitivity,Greece,Gen Z,Q30,Heard a lot,substantive_only,98,0,133.80609987,74.88306044,72.44897959
+unambiguous_bands_sensitivity,Greece,Gen Z,Q30,Heard at least a little,all_including_dk,98,0,133.80609987,99.19248108,98.97959184
+unambiguous_bands_sensitivity,Greece,Gen Z,Q30,Heard at least a little,substantive_only,98,0,133.80609987,99.19248108,98.97959184
+unambiguous_bands_sensitivity,Greece,Gen Z,Q31,More excited than concerned,all_including_dk,98,0,133.80609987,17.45227972,22.44897959
+unambiguous_bands_sensitivity,Greece,Gen Z,Q31,More excited than concerned,substantive_only,98,0,133.80609987,17.45227972,22.44897959
+unambiguous_bands_sensitivity,Greece,Non-Gen Z,Q30,Heard a lot,all_including_dk,912,3,876.19390013,27.35554037,37.39035088
+unambiguous_bands_sensitivity,Greece,Non-Gen Z,Q30,Heard a lot,substantive_only,909,0,869.88897022,27.55381253,37.51375138
+unambiguous_bands_sensitivity,Greece,Non-Gen Z,Q30,Heard at least a little,all_including_dk,912,3,876.19390013,79.93761553,89.58333333
+unambiguous_bands_sensitivity,Greece,Non-Gen Z,Q30,Heard at least a little,substantive_only,909,0,869.88897022,80.51700104,89.87898790
+unambiguous_bands_sensitivity,Greece,Non-Gen Z,Q31,More excited than concerned,all_including_dk,912,20,876.19390013,9.32609790,10.30701754
+unambiguous_bands_sensitivity,Greece,Non-Gen Z,Q31,More excited than concerned,substantive_only,892,0,842.01925140,9.70461195,10.53811659
+unambiguous_bands_sensitivity,Hungary,Gen Z,Q30,Heard a lot,all_including_dk,80,0,145.32733702,63.94745354,71.25000000
+unambiguous_bands_sensitivity,Hungary,Gen Z,Q30,Heard a lot,substantive_only,80,0,145.32733702,63.94745354,71.25000000
+unambiguous_bands_sensitivity,Hungary,Gen Z,Q30,Heard at least a little,all_including_dk,80,0,145.32733702,94.93017870,96.25000000
+unambiguous_bands_sensitivity,Hungary,Gen Z,Q30,Heard at least a little,substantive_only,80,0,145.32733702,94.93017870,96.25000000
+unambiguous_bands_sensitivity,Hungary,Gen Z,Q31,More excited than concerned,all_including_dk,80,0,145.32733702,26.36168051,26.25000000
+unambiguous_bands_sensitivity,Hungary,Gen Z,Q31,More excited than concerned,substantive_only,80,0,145.32733702,26.36168051,26.25000000
+unambiguous_bands_sensitivity,Hungary,Non-Gen Z,Q30,Heard a lot,all_including_dk,940,2,874.67266298,33.74931648,38.61702128
+unambiguous_bands_sensitivity,Hungary,Non-Gen Z,Q30,Heard a lot,substantive_only,938,0,873.94623071,33.77736923,38.69936034
+unambiguous_bands_sensitivity,Hungary,Non-Gen Z,Q30,Heard at least a little,all_including_dk,940,2,874.67266298,90.91772582,93.61702128
+unambiguous_bands_sensitivity,Hungary,Non-Gen Z,Q30,Heard at least a little,substantive_only,938,0,873.94623071,90.99329749,93.81663113
+unambiguous_bands_sensitivity,Hungary,Non-Gen Z,Q31,More excited than concerned,all_including_dk,940,18,874.67266298,16.77185935,17.02127660
+unambiguous_bands_sensitivity,Hungary,Non-Gen Z,Q31,More excited than concerned,substantive_only,922,0,854.88904925,17.15998923,17.35357918
+unambiguous_bands_sensitivity,Italy,Gen Z,Q30,Heard a lot,all_including_dk,146,0,150.84860550,66.82179695,71.23287671
+unambiguous_bands_sensitivity,Italy,Gen Z,Q30,Heard a lot,substantive_only,146,0,150.84860550,66.82179695,71.23287671
+unambiguous_bands_sensitivity,Italy,Gen Z,Q30,Heard at least a little,all_including_dk,146,0,150.84860550,94.78642440,96.57534247
+unambiguous_bands_sensitivity,Italy,Gen Z,Q30,Heard at least a little,substantive_only,146,0,150.84860550,94.78642440,96.57534247
+unambiguous_bands_sensitivity,Italy,Gen Z,Q31,More excited than concerned,all_including_dk,146,0,150.84860550,27.36878901,27.39726027
+unambiguous_bands_sensitivity,Italy,Gen Z,Q31,More excited than concerned,substantive_only,146,0,150.84860550,27.36878901,27.39726027
+unambiguous_bands_sensitivity,Italy,Non-Gen Z,Q30,Heard a lot,all_including_dk,859,2,854.08733695,41.18651292,49.12689173
+unambiguous_bands_sensitivity,Italy,Non-Gen Z,Q30,Heard a lot,substantive_only,857,0,853.26785899,41.22606842,49.24154026
+unambiguous_bands_sensitivity,Italy,Non-Gen Z,Q30,Heard at least a little,all_including_dk,859,2,854.08733695,90.74492203,94.87776484
+unambiguous_bands_sensitivity,Italy,Non-Gen Z,Q30,Heard at least a little,substantive_only,857,0,853.26785899,90.83207340,95.09918320
+unambiguous_bands_sensitivity,Italy,Non-Gen Z,Q31,More excited than concerned,all_including_dk,859,8,854.08733695,9.51003969,13.27124563
+unambiguous_bands_sensitivity,Italy,Non-Gen Z,Q31,More excited than concerned,substantive_only,851,0,837.47350771,9.69870019,13.39600470
+unambiguous_bands_sensitivity,Netherlands,Gen Z,Q30,Heard a lot,all_including_dk,108,0,185.14217631,62.87501041,64.81481481
+unambiguous_bands_sensitivity,Netherlands,Gen Z,Q30,Heard a lot,substantive_only,108,0,185.14217631,62.87501041,64.81481481
+unambiguous_bands_sensitivity,Netherlands,Gen Z,Q30,Heard at least a little,all_including_dk,108,0,185.14217631,85.02892391,87.96296296
+unambiguous_bands_sensitivity,Netherlands,Gen Z,Q30,Heard at least a little,substantive_only,108,0,185.14217631,85.02892391,87.96296296
+unambiguous_bands_sensitivity,Netherlands,Gen Z,Q31,More excited than concerned,all_including_dk,108,1,185.14217631,26.71885846,29.62962963
+unambiguous_bands_sensitivity,Netherlands,Gen Z,Q31,More excited than concerned,substantive_only,107,0,182.24779811,27.14319545,29.90654206
+unambiguous_bands_sensitivity,Netherlands,Non-Gen Z,Q30,Heard a lot,all_including_dk,891,3,813.81866014,41.96249783,46.46464646
+unambiguous_bands_sensitivity,Netherlands,Non-Gen Z,Q30,Heard a lot,substantive_only,888,0,811.09033092,42.10365043,46.62162162
+unambiguous_bands_sensitivity,Netherlands,Non-Gen Z,Q30,Heard at least a little,all_including_dk,891,3,813.81866014,90.45903655,92.59259259
+unambiguous_bands_sensitivity,Netherlands,Non-Gen Z,Q30,Heard at least a little,substantive_only,888,0,811.09033092,90.76332083,92.90540541
+unambiguous_bands_sensitivity,Netherlands,Non-Gen Z,Q31,More excited than concerned,all_including_dk,891,12,813.81866014,13.89789933,14.70258137
+unambiguous_bands_sensitivity,Netherlands,Non-Gen Z,Q31,More excited than concerned,substantive_only,879,0,802.46976683,14.09444976,14.90329920
+unambiguous_bands_sensitivity,Poland,Gen Z,Q30,Heard a lot,all_including_dk,131,0,157.39671679,66.07483003,67.17557252
+unambiguous_bands_sensitivity,Poland,Gen Z,Q30,Heard a lot,substantive_only,131,0,157.39671679,66.07483003,67.17557252
+unambiguous_bands_sensitivity,Poland,Gen Z,Q30,Heard at least a little,all_including_dk,131,0,157.39671679,91.80054163,95.41984733
+unambiguous_bands_sensitivity,Poland,Gen Z,Q30,Heard at least a little,substantive_only,131,0,157.39671679,91.80054163,95.41984733
+unambiguous_bands_sensitivity,Poland,Gen Z,Q31,More excited than concerned,all_including_dk,131,1,157.39671679,30.31269863,31.29770992
+unambiguous_bands_sensitivity,Poland,Gen Z,Q31,More excited than concerned,substantive_only,130,0,155.75513436,30.63217955,31.53846154
+unambiguous_bands_sensitivity,Poland,Non-Gen Z,Q30,Heard a lot,all_including_dk,866,0,839.42981944,28.45771500,33.83371824
+unambiguous_bands_sensitivity,Poland,Non-Gen Z,Q30,Heard a lot,substantive_only,866,0,839.42981944,28.45771500,33.83371824
+unambiguous_bands_sensitivity,Poland,Non-Gen Z,Q30,Heard at least a little,all_including_dk,866,0,839.42981944,86.32372490,90.53117783
+unambiguous_bands_sensitivity,Poland,Non-Gen Z,Q30,Heard at least a little,substantive_only,866,0,839.42981944,86.32372490,90.53117783
+unambiguous_bands_sensitivity,Poland,Non-Gen Z,Q31,More excited than concerned,all_including_dk,866,58,839.42981944,12.09354768,14.31870670
+unambiguous_bands_sensitivity,Poland,Non-Gen Z,Q31,More excited than concerned,substantive_only,808,0,777.16010231,13.06253951,15.34653465
+unambiguous_bands_sensitivity,Spain,Gen Z,Q30,Heard a lot,all_including_dk,137,0,143.60814571,57.93886359,59.85401460
+unambiguous_bands_sensitivity,Spain,Gen Z,Q30,Heard a lot,substantive_only,137,0,143.60814571,57.93886359,59.85401460
+unambiguous_bands_sensitivity,Spain,Gen Z,Q30,Heard at least a little,all_including_dk,137,0,143.60814571,95.51346812,97.08029197
+unambiguous_bands_sensitivity,Spain,Gen Z,Q30,Heard at least a little,substantive_only,137,0,143.60814571,95.51346812,97.08029197
+unambiguous_bands_sensitivity,Spain,Gen Z,Q31,More excited than concerned,all_including_dk,137,1,143.60814571,37.27464306,37.22627737
+unambiguous_bands_sensitivity,Spain,Gen Z,Q31,More excited than concerned,substantive_only,136,0,142.93751580,37.44952710,37.50000000
+unambiguous_bands_sensitivity,Spain,Non-Gen Z,Q30,Heard a lot,all_including_dk,861,1,853.96125395,25.37547316,31.47502904
+unambiguous_bands_sensitivity,Spain,Non-Gen Z,Q30,Heard a lot,substantive_only,860,0,852.63103318,25.41506236,31.51162791
+unambiguous_bands_sensitivity,Spain,Non-Gen Z,Q30,Heard at least a little,all_including_dk,861,1,853.96125395,84.08615231,90.24390244
+unambiguous_bands_sensitivity,Spain,Non-Gen Z,Q30,Heard at least a little,substantive_only,860,0,852.63103318,84.21733819,90.34883721
+unambiguous_bands_sensitivity,Spain,Non-Gen Z,Q31,More excited than concerned,all_including_dk,861,15,853.96125395,16.02519039,18.35075494
+unambiguous_bands_sensitivity,Spain,Non-Gen Z,Q31,More excited than concerned,substantive_only,846,0,822.36306660,16.64093664,18.67612293
+unambiguous_bands_sensitivity,Sweden,Gen Z,Q30,Heard a lot,all_including_dk,126,0,167.98846911,69.07411016,70.63492063
+unambiguous_bands_sensitivity,Sweden,Gen Z,Q30,Heard a lot,substantive_only,126,0,167.98846911,69.07411016,70.63492063
+unambiguous_bands_sensitivity,Sweden,Gen Z,Q30,Heard at least a little,all_including_dk,126,0,167.98846911,95.32842143,95.23809524
+unambiguous_bands_sensitivity,Sweden,Gen Z,Q30,Heard at least a little,substantive_only,126,0,167.98846911,95.32842143,95.23809524
+unambiguous_bands_sensitivity,Sweden,Gen Z,Q31,More excited than concerned,all_including_dk,126,2,167.98846911,25.50784151,26.19047619
+unambiguous_bands_sensitivity,Sweden,Gen Z,Q31,More excited than concerned,substantive_only,124,0,166.10100749,25.79769569,26.61290323
+unambiguous_bands_sensitivity,Sweden,Non-Gen Z,Q30,Heard a lot,all_including_dk,875,3,833.01153089,41.84168527,45.14285714
+unambiguous_bands_sensitivity,Sweden,Non-Gen Z,Q30,Heard a lot,substantive_only,872,0,830.39317530,41.97361845,45.29816514
+unambiguous_bands_sensitivity,Sweden,Non-Gen Z,Q30,Heard at least a little,all_including_dk,875,3,833.01153089,90.79090720,92.11428571
+unambiguous_bands_sensitivity,Sweden,Non-Gen Z,Q30,Heard at least a little,substantive_only,872,0,830.39317530,91.07718469,92.43119266
+unambiguous_bands_sensitivity,Sweden,Non-Gen Z,Q31,More excited than concerned,all_including_dk,875,19,833.01153089,21.38753201,23.88571429
+unambiguous_bands_sensitivity,Sweden,Non-Gen Z,Q31,More excited than concerned,substantive_only,856,0,811.59320771,21.95195895,24.41588785
+unambiguous_bands_sensitivity,UK,Gen Z,Q30,Heard a lot,all_including_dk,166,1,191.85998897,54.99179644,61.44578313
+unambiguous_bands_sensitivity,UK,Gen Z,Q30,Heard a lot,substantive_only,165,0,188.55685255,55.95514199,61.81818182
+unambiguous_bands_sensitivity,UK,Gen Z,Q30,Heard at least a little,all_including_dk,166,1,191.85998897,93.39415385,96.38554217
+unambiguous_bands_sensitivity,UK,Gen Z,Q30,Heard at least a little,substantive_only,165,0,188.55685255,95.03023139,96.96969697
+unambiguous_bands_sensitivity,UK,Gen Z,Q31,More excited than concerned,all_including_dk,166,1,191.85998897,17.46502019,21.08433735
+unambiguous_bands_sensitivity,UK,Gen Z,Q31,More excited than concerned,substantive_only,165,0,188.55685255,17.77097218,21.21212121
+unambiguous_bands_sensitivity,UK,Non-Gen Z,Q30,Heard a lot,all_including_dk,837,1,810.94544105,37.06679611,40.26284349
+unambiguous_bands_sensitivity,UK,Non-Gen Z,Q30,Heard a lot,substantive_only,836,0,809.33483036,37.14056061,40.31100478
+unambiguous_bands_sensitivity,UK,Non-Gen Z,Q30,Heard at least a little,all_including_dk,837,1,810.94544105,89.00654464,89.48626045
+unambiguous_bands_sensitivity,UK,Non-Gen Z,Q30,Heard at least a little,substantive_only,836,0,809.33483036,89.18367145,89.59330144
+unambiguous_bands_sensitivity,UK,Non-Gen Z,Q31,More excited than concerned,all_including_dk,837,17,810.94544105,12.24494810,10.51373955
+unambiguous_bands_sensitivity,UK,Non-Gen Z,Q31,More excited than concerned,substantive_only,820,0,796.42738975,12.46816090,10.73170732
+unambiguous_bands_sensitivity,Australia,Gen Z,Q30,Heard a lot,all_including_dk,326,1,361.92964062,66.66210440,67.79141104
+unambiguous_bands_sensitivity,Australia,Gen Z,Q30,Heard a lot,substantive_only,325,0,360.29988890,66.96363844,68.00000000
+unambiguous_bands_sensitivity,Australia,Gen Z,Q30,Heard at least a little,all_including_dk,326,1,361.92964062,98.06315688,97.85276074
+unambiguous_bands_sensitivity,Australia,Gen Z,Q30,Heard at least a little,substantive_only,325,0,360.29988890,98.50672793,98.15384615
+unambiguous_bands_sensitivity,Australia,Gen Z,Q31,More excited than concerned,all_including_dk,326,1,361.92964062,16.49263646,16.56441718
+unambiguous_bands_sensitivity,Australia,Gen Z,Q31,More excited than concerned,substantive_only,325,0,361.14785296,16.52833857,16.61538462
+unambiguous_bands_sensitivity,Australia,Non-Gen Z,Q30,Heard a lot,all_including_dk,1501,1,1462.79974893,38.10461228,37.84143904
+unambiguous_bands_sensitivity,Australia,Non-Gen Z,Q30,Heard a lot,substantive_only,1500,0,1461.87104061,38.12881966,37.86666667
+unambiguous_bands_sensitivity,Australia,Non-Gen Z,Q30,Heard at least a little,all_including_dk,1501,1,1462.79974893,96.83068083,96.66888741
+unambiguous_bands_sensitivity,Australia,Non-Gen Z,Q30,Heard at least a little,substantive_only,1500,0,1461.87104061,96.89219615,96.73333333
+unambiguous_bands_sensitivity,Australia,Non-Gen Z,Q31,More excited than concerned,all_including_dk,1501,5,1462.79974893,11.73031809,11.32578281
+unambiguous_bands_sensitivity,Australia,Non-Gen Z,Q31,More excited than concerned,substantive_only,1496,0,1459.12127397,11.75989047,11.36363636
+unambiguous_bands_sensitivity,India,Gen Z,Q30,Heard a lot,all_including_dk,1085,101,1172.68780625,20.48460130,22.48847926
+unambiguous_bands_sensitivity,India,Gen Z,Q30,Heard a lot,substantive_only,984,0,1032.48817925,23.26616676,24.79674797
+unambiguous_bands_sensitivity,India,Gen Z,Q30,Heard at least a little,all_including_dk,1085,101,1172.68780625,58.19032571,62.76497696
+unambiguous_bands_sensitivity,India,Gen Z,Q30,Heard at least a little,substantive_only,984,0,1032.48817925,66.09188054,69.20731707
+unambiguous_bands_sensitivity,India,Gen Z,Q31,More excited than concerned,all_including_dk,1085,169,1172.68780625,19.89171951,20.55299539
+unambiguous_bands_sensitivity,India,Gen Z,Q31,More excited than concerned,substantive_only,916,0,963.56811127,24.20874730,24.34497817
+unambiguous_bands_sensitivity,India,Non-Gen Z,Q30,Heard a lot,all_including_dk,2460,372,2372.31219375,10.88489223,14.95934959
+unambiguous_bands_sensitivity,India,Non-Gen Z,Q30,Heard a lot,substantive_only,2088,0,1844.50465621,13.99961907,17.62452107
+unambiguous_bands_sensitivity,India,Non-Gen Z,Q30,Heard at least a little,all_including_dk,2460,372,2372.31219375,39.47778888,51.21951220
+unambiguous_bands_sensitivity,India,Non-Gen Z,Q30,Heard at least a little,substantive_only,2088,0,1844.50465621,50.77441232,60.34482759
+unambiguous_bands_sensitivity,India,Non-Gen Z,Q31,More excited than concerned,all_including_dk,2460,573,2372.31219375,14.67888308,17.35772358
+unambiguous_bands_sensitivity,India,Non-Gen Z,Q31,More excited than concerned,substantive_only,1887,0,1672.94009371,20.81538572,22.62851086
+unambiguous_bands_sensitivity,Indonesia,Gen Z,Q30,Heard a lot,all_including_dk,318,2,291.63689458,33.47173537,33.96226415
+unambiguous_bands_sensitivity,Indonesia,Gen Z,Q30,Heard a lot,substantive_only,316,0,287.71495969,33.92799933,34.17721519
+unambiguous_bands_sensitivity,Indonesia,Gen Z,Q30,Heard at least a little,all_including_dk,318,2,291.63689458,78.14928374,79.55974843
+unambiguous_bands_sensitivity,Indonesia,Gen Z,Q30,Heard at least a little,substantive_only,316,0,287.71495969,79.21456169,80.06329114
+unambiguous_bands_sensitivity,Indonesia,Gen Z,Q31,More excited than concerned,all_including_dk,318,9,291.63689458,13.21044852,14.15094340
+unambiguous_bands_sensitivity,Indonesia,Gen Z,Q31,More excited than concerned,substantive_only,309,0,284.76224684,13.52937134,14.56310680
+unambiguous_bands_sensitivity,Indonesia,Non-Gen Z,Q30,Heard a lot,all_including_dk,704,19,730.36310542,12.07498797,14.63068182
+unambiguous_bands_sensitivity,Indonesia,Non-Gen Z,Q30,Heard a lot,substantive_only,685,0,702.87007701,12.54730568,15.03649635
+unambiguous_bands_sensitivity,Indonesia,Non-Gen Z,Q30,Heard at least a little,all_including_dk,704,19,730.36310542,44.53723317,51.27840909
+unambiguous_bands_sensitivity,Indonesia,Non-Gen Z,Q30,Heard at least a little,substantive_only,685,0,702.87007701,46.27932386,52.70072993
+unambiguous_bands_sensitivity,Indonesia,Non-Gen Z,Q31,More excited than concerned,all_including_dk,704,35,730.36310542,14.11302269,12.64204545
+unambiguous_bands_sensitivity,Indonesia,Non-Gen Z,Q31,More excited than concerned,substantive_only,669,0,684.25145566,15.06409814,13.30343797
+unambiguous_bands_sensitivity,Japan,Gen Z,Q30,Heard a lot,all_including_dk,112,0,137.83844116,80.32126954,80.35714286
+unambiguous_bands_sensitivity,Japan,Gen Z,Q30,Heard a lot,substantive_only,112,0,137.83844116,80.32126954,80.35714286
+unambiguous_bands_sensitivity,Japan,Gen Z,Q30,Heard at least a little,all_including_dk,112,0,137.83844116,97.06732113,96.42857143
+unambiguous_bands_sensitivity,Japan,Gen Z,Q30,Heard at least a little,substantive_only,112,0,137.83844116,97.06732113,96.42857143
+unambiguous_bands_sensitivity,Japan,Gen Z,Q31,More excited than concerned,all_including_dk,112,1,137.83844116,26.39798041,29.46428571
+unambiguous_bands_sensitivity,Japan,Gen Z,Q31,More excited than concerned,substantive_only,111,0,137.06750766,26.54645533,29.72972973
+unambiguous_bands_sensitivity,Japan,Non-Gen Z,Q30,Heard a lot,all_including_dk,883,2,856.71214589,47.95440189,51.07587769
+unambiguous_bands_sensitivity,Japan,Non-Gen Z,Q30,Heard a lot,substantive_only,881,0,854.99126176,48.05092214,51.19182747
+unambiguous_bands_sensitivity,Japan,Non-Gen Z,Q30,Heard at least a little,all_including_dk,883,2,856.71214589,87.60409411,87.99546999
+unambiguous_bands_sensitivity,Japan,Non-Gen Z,Q30,Heard at least a little,substantive_only,881,0,854.99126176,87.78041930,88.19523269
+unambiguous_bands_sensitivity,Japan,Non-Gen Z,Q31,More excited than concerned,all_including_dk,883,11,856.71214589,14.10985580,14.60928652
+unambiguous_bands_sensitivity,Japan,Non-Gen Z,Q31,More excited than concerned,substantive_only,872,0,843.88483131,14.32433004,14.79357798
+unambiguous_bands_sensitivity,South Korea,Gen Z,Q30,Heard a lot,all_including_dk,80,0,145.71340689,56.23244806,58.75000000
+unambiguous_bands_sensitivity,South Korea,Gen Z,Q30,Heard a lot,substantive_only,80,0,145.71340689,56.23244806,58.75000000
+unambiguous_bands_sensitivity,South Korea,Gen Z,Q30,Heard at least a little,all_including_dk,80,0,145.71340689,100.00000000,100.00000000
+unambiguous_bands_sensitivity,South Korea,Gen Z,Q30,Heard at least a little,substantive_only,80,0,145.71340689,100.00000000,100.00000000
+unambiguous_bands_sensitivity,South Korea,Gen Z,Q31,More excited than concerned,all_including_dk,80,0,145.71340689,32.13138821,36.25000000
+unambiguous_bands_sensitivity,South Korea,Gen Z,Q31,More excited than concerned,substantive_only,80,0,145.71340689,32.13138821,36.25000000
+unambiguous_bands_sensitivity,South Korea,Non-Gen Z,Q30,Heard a lot,all_including_dk,962,4,896.28659311,15.05384743,17.67151767
+unambiguous_bands_sensitivity,South Korea,Non-Gen Z,Q30,Heard a lot,substantive_only,958,0,887.92673533,15.19557987,17.74530271
+unambiguous_bands_sensitivity,South Korea,Non-Gen Z,Q30,Heard at least a little,all_including_dk,962,4,896.28659311,74.37531019,79.83367983
+unambiguous_bands_sensitivity,South Korea,Non-Gen Z,Q30,Heard at least a little,substantive_only,958,0,887.92673533,75.07555604,80.16701461
+unambiguous_bands_sensitivity,South Korea,Non-Gen Z,Q31,More excited than concerned,all_including_dk,962,4,896.28659311,20.71492603,24.32432432
+unambiguous_bands_sensitivity,South Korea,Non-Gen Z,Q31,More excited than concerned,substantive_only,958,0,890.99821083,20.83787627,24.42588727
+unambiguous_bands_sensitivity,Israel,Gen Z,Q30,Heard a lot,all_including_dk,239,5,257.52855369,53.67131696,54.39330544
+unambiguous_bands_sensitivity,Israel,Gen Z,Q30,Heard a lot,substantive_only,234,0,252.71473164,54.69367196,55.55555556
+unambiguous_bands_sensitivity,Israel,Gen Z,Q30,Heard at least a little,all_including_dk,239,5,257.52855369,86.47042338,85.35564854
+unambiguous_bands_sensitivity,Israel,Gen Z,Q30,Heard at least a little,substantive_only,234,0,252.71473164,88.11755027,87.17948718
+unambiguous_bands_sensitivity,Israel,Gen Z,Q31,More excited than concerned,all_including_dk,239,22,257.52855369,48.37826108,46.86192469
+unambiguous_bands_sensitivity,Israel,Gen Z,Q31,More excited than concerned,substantive_only,217,0,233.41139937,53.37692863,51.61290323
+unambiguous_bands_sensitivity,Israel,Non-Gen Z,Q30,Heard a lot,all_including_dk,759,16,740.47144631,30.11391831,31.09354414
+unambiguous_bands_sensitivity,Israel,Non-Gen Z,Q30,Heard a lot,substantive_only,743,0,725.21189708,30.74756045,31.76312248
+unambiguous_bands_sensitivity,Israel,Non-Gen Z,Q30,Heard at least a little,all_including_dk,759,16,740.47144631,78.23359326,78.65612648
+unambiguous_bands_sensitivity,Israel,Non-Gen Z,Q30,Heard at least a little,substantive_only,743,0,725.21189708,79.87974575,80.34993271
+unambiguous_bands_sensitivity,Israel,Non-Gen Z,Q31,More excited than concerned,all_including_dk,759,151,740.47144631,22.06137728,21.60737813
+unambiguous_bands_sensitivity,Israel,Non-Gen Z,Q31,More excited than concerned,substantive_only,608,0,607.00128247,26.91233184,26.97368421
+unambiguous_bands_sensitivity,Turkey,Gen Z,Q30,Heard a lot,all_including_dk,329,2,292.85263494,35.60250734,35.86626140
+unambiguous_bands_sensitivity,Turkey,Gen Z,Q30,Heard a lot,substantive_only,327,0,291.95337627,35.71216822,36.08562691
+unambiguous_bands_sensitivity,Turkey,Gen Z,Q30,Heard at least a little,all_including_dk,329,2,292.85263494,89.94161424,89.36170213
+unambiguous_bands_sensitivity,Turkey,Gen Z,Q30,Heard at least a little,substantive_only,327,0,291.95337627,90.21864744,89.90825688
+unambiguous_bands_sensitivity,Turkey,Gen Z,Q31,More excited than concerned,all_including_dk,329,15,292.85263494,27.23734389,27.65957447
+unambiguous_bands_sensitivity,Turkey,Gen Z,Q31,More excited than concerned,substantive_only,314,0,276.28137403,28.87103033,28.98089172
+unambiguous_bands_sensitivity,Turkey,Non-Gen Z,Q30,Heard a lot,all_including_dk,715,49,749.36982303,12.28205799,15.66433566
+unambiguous_bands_sensitivity,Turkey,Non-Gen Z,Q30,Heard a lot,substantive_only,666,0,680.30610796,13.52891517,16.81681682
+unambiguous_bands_sensitivity,Turkey,Non-Gen Z,Q30,Heard at least a little,all_including_dk,715,49,749.36982303,60.03873111,70.20979021
+unambiguous_bands_sensitivity,Turkey,Non-Gen Z,Q30,Heard at least a little,substantive_only,666,0,680.30610796,66.13377828,75.37537538
+unambiguous_bands_sensitivity,Turkey,Non-Gen Z,Q31,More excited than concerned,all_including_dk,715,131,749.36982303,16.37007861,18.32167832
+unambiguous_bands_sensitivity,Turkey,Non-Gen Z,Q31,More excited than concerned,substantive_only,584,0,562.46640142,21.80973456,22.43150685
+unambiguous_bands_sensitivity,Kenya,Gen Z,Q30,Heard a lot,all_including_dk,560,5,434.01084708,15.26699635,16.07142857
+unambiguous_bands_sensitivity,Kenya,Gen Z,Q30,Heard a lot,substantive_only,555,0,429.07484584,15.44262518,16.21621622
+unambiguous_bands_sensitivity,Kenya,Gen Z,Q30,Heard at least a little,all_including_dk,560,5,434.01084708,58.19864979,57.85714286
+unambiguous_bands_sensitivity,Kenya,Gen Z,Q30,Heard at least a little,substantive_only,555,0,429.07484584,58.86815678,58.37837838
+unambiguous_bands_sensitivity,Kenya,Gen Z,Q31,More excited than concerned,all_including_dk,560,23,434.01084708,20.78821338,17.85714286
+unambiguous_bands_sensitivity,Kenya,Gen Z,Q31,More excited than concerned,substantive_only,537,0,417.20868461,21.62541297,18.62197393
+unambiguous_bands_sensitivity,Kenya,Non-Gen Z,Q30,Heard a lot,all_including_dk,489,17,614.98915292,9.13136687,11.04294479
+unambiguous_bands_sensitivity,Kenya,Non-Gen Z,Q30,Heard a lot,substantive_only,472,0,580.74410003,9.66982114,11.44067797
+unambiguous_bands_sensitivity,Kenya,Non-Gen Z,Q30,Heard at least a little,all_including_dk,489,17,614.98915292,39.95660089,46.42126789
+unambiguous_bands_sensitivity,Kenya,Non-Gen Z,Q30,Heard at least a little,substantive_only,472,0,580.74410003,42.31274348,48.09322034
+unambiguous_bands_sensitivity,Kenya,Non-Gen Z,Q31,More excited than concerned,all_including_dk,489,56,614.98915292,14.01963045,13.29243354
+unambiguous_bands_sensitivity,Kenya,Non-Gen Z,Q31,More excited than concerned,substantive_only,433,0,530.58935828,16.24970520,15.01154734
+unambiguous_bands_sensitivity,Nigeria,Gen Z,Q30,Heard a lot,all_including_dk,460,29,462.00636830,19.66812689,21.30434783
+unambiguous_bands_sensitivity,Nigeria,Gen Z,Q30,Heard a lot,substantive_only,431,0,429.65541489,21.14904074,22.73781903
+unambiguous_bands_sensitivity,Nigeria,Gen Z,Q30,Heard at least a little,all_including_dk,460,29,462.00636830,69.27376111,70.21739130
+unambiguous_bands_sensitivity,Nigeria,Gen Z,Q30,Heard at least a little,substantive_only,431,0,429.65541489,74.48973684,74.94199536
+unambiguous_bands_sensitivity,Nigeria,Gen Z,Q31,More excited than concerned,all_including_dk,460,76,462.00636830,22.63775918,23.91304348
+unambiguous_bands_sensitivity,Nigeria,Gen Z,Q31,More excited than concerned,substantive_only,384,0,382.02507102,27.37723175,28.64583333
+unambiguous_bands_sensitivity,Nigeria,Non-Gen Z,Q30,Heard a lot,all_including_dk,577,28,574.99363170,15.66799925,16.98440208
+unambiguous_bands_sensitivity,Nigeria,Non-Gen Z,Q30,Heard a lot,substantive_only,549,0,543.77598070,16.56748387,17.85063752
+unambiguous_bands_sensitivity,Nigeria,Non-Gen Z,Q30,Heard at least a little,all_including_dk,577,28,574.99363170,55.94631986,58.75216638
+unambiguous_bands_sensitivity,Nigeria,Non-Gen Z,Q30,Heard at least a little,substantive_only,549,0,543.77598070,59.15814375,61.74863388
+unambiguous_bands_sensitivity,Nigeria,Non-Gen Z,Q31,More excited than concerned,all_including_dk,577,120,574.99363170,18.71640699,18.89081456
+unambiguous_bands_sensitivity,Nigeria,Non-Gen Z,Q31,More excited than concerned,substantive_only,457,0,445.77317091,24.14190789,23.85120350
+unambiguous_bands_sensitivity,South Africa,Gen Z,Q30,Heard a lot,all_including_dk,493,17,582.07797467,34.77946864,33.26572008
+unambiguous_bands_sensitivity,South Africa,Gen Z,Q30,Heard a lot,substantive_only,476,0,569.99931026,35.51646871,34.45378151
+unambiguous_bands_sensitivity,South Africa,Gen Z,Q30,Heard at least a little,all_including_dk,493,17,582.07797467,66.41990954,65.11156187
+unambiguous_bands_sensitivity,South Africa,Gen Z,Q30,Heard at least a little,substantive_only,476,0,569.99931026,67.82739159,67.43697479
+unambiguous_bands_sensitivity,South Africa,Gen Z,Q31,More excited than concerned,all_including_dk,493,37,582.07797467,22.64192117,22.51521298
+unambiguous_bands_sensitivity,South Africa,Gen Z,Q31,More excited than concerned,substantive_only,456,0,545.39866476,24.16464225,24.34210526
+unambiguous_bands_sensitivity,South Africa,Non-Gen Z,Q30,Heard a lot,all_including_dk,1077,94,987.92202533,26.54486951,26.46239554
+unambiguous_bands_sensitivity,South Africa,Non-Gen Z,Q30,Heard a lot,substantive_only,983,0,910.16879551,28.81252508,28.99287894
+unambiguous_bands_sensitivity,South Africa,Non-Gen Z,Q30,Heard at least a little,all_including_dk,1077,94,987.92202533,57.17641467,55.52460539
+unambiguous_bands_sensitivity,South Africa,Non-Gen Z,Q30,Heard at least a little,substantive_only,983,0,910.16879551,62.06083933,60.83418108
+unambiguous_bands_sensitivity,South Africa,Non-Gen Z,Q31,More excited than concerned,all_including_dk,1077,140,987.92202533,15.71038064,16.43454039
+unambiguous_bands_sensitivity,South Africa,Non-Gen Z,Q31,More excited than concerned,substantive_only,937,0,863.77741773,17.96832233,18.89007471
+unambiguous_bands_sensitivity,Argentina,Gen Z,Q30,Heard a lot,all_including_dk,237,1,254.60711004,38.22000518,36.28691983
+unambiguous_bands_sensitivity,Argentina,Gen Z,Q30,Heard a lot,substantive_only,236,0,252.24256121,38.57828361,36.44067797
+unambiguous_bands_sensitivity,Argentina,Gen Z,Q30,Heard at least a little,all_including_dk,237,1,254.60711004,81.31787016,81.43459916
+unambiguous_bands_sensitivity,Argentina,Gen Z,Q30,Heard at least a little,substantive_only,236,0,252.24256121,82.08015260,81.77966102
+unambiguous_bands_sensitivity,Argentina,Gen Z,Q31,More excited than concerned,all_including_dk,237,11,254.60711004,20.23679872,19.83122363
+unambiguous_bands_sensitivity,Argentina,Gen Z,Q31,More excited than concerned,substantive_only,226,0,241.95940972,21.29461650,20.79646018
+unambiguous_bands_sensitivity,Argentina,Non-Gen Z,Q30,Heard a lot,all_including_dk,764,1,746.39288996,18.91418665,19.50261780
+unambiguous_bands_sensitivity,Argentina,Non-Gen Z,Q30,Heard a lot,substantive_only,763,0,744.02834113,18.97429661,19.52817824
+unambiguous_bands_sensitivity,Argentina,Non-Gen Z,Q30,Heard at least a little,all_including_dk,764,1,746.39288996,68.85421428,70.68062827
+unambiguous_bands_sensitivity,Argentina,Non-Gen Z,Q30,Heard at least a little,substantive_only,763,0,744.02834113,69.07303545,70.77326343
+unambiguous_bands_sensitivity,Argentina,Non-Gen Z,Q31,More excited than concerned,all_including_dk,764,53,746.39288996,10.37733806,10.47120419
+unambiguous_bands_sensitivity,Argentina,Non-Gen Z,Q31,More excited than concerned,substantive_only,711,0,696.14534608,11.12637094,11.25175809
+unambiguous_bands_sensitivity,Brazil,Gen Z,Q30,Heard a lot,all_including_dk,211,1,246.46041193,38.67698464,37.91469194
+unambiguous_bands_sensitivity,Brazil,Gen Z,Q30,Heard a lot,substantive_only,210,0,246.03622213,38.74366743,38.09523810
+unambiguous_bands_sensitivity,Brazil,Gen Z,Q30,Heard at least a little,all_including_dk,211,1,246.46041193,86.25136768,83.88625592
+unambiguous_bands_sensitivity,Brazil,Gen Z,Q30,Heard at least a little,substantive_only,210,0,246.03622213,86.40007323,84.28571429
+unambiguous_bands_sensitivity,Brazil,Gen Z,Q31,More excited than concerned,all_including_dk,211,7,246.46041193,13.39681104,12.79620853
+unambiguous_bands_sensitivity,Brazil,Gen Z,Q31,More excited than concerned,substantive_only,204,0,237.62645542,13.89484837,13.23529412
+unambiguous_bands_sensitivity,Brazil,Non-Gen Z,Q30,Heard a lot,all_including_dk,842,11,806.53958807,16.36270650,16.38954869
+unambiguous_bands_sensitivity,Brazil,Non-Gen Z,Q30,Heard a lot,substantive_only,831,0,798.10831367,16.53556332,16.60649819
+unambiguous_bands_sensitivity,Brazil,Non-Gen Z,Q30,Heard at least a little,all_including_dk,842,11,806.53958807,63.31776087,62.70783848
+unambiguous_bands_sensitivity,Brazil,Non-Gen Z,Q30,Heard at least a little,substantive_only,831,0,798.10831367,63.98665432,63.53790614
+unambiguous_bands_sensitivity,Brazil,Non-Gen Z,Q31,More excited than concerned,all_including_dk,842,52,806.53958807,8.63260433,8.55106888
+unambiguous_bands_sensitivity,Brazil,Non-Gen Z,Q31,More excited than concerned,substantive_only,790,0,760.76338031,9.15204033,9.11392405
+unambiguous_bands_sensitivity,Mexico,Gen Z,Q30,Heard a lot,all_including_dk,277,0,293.39944826,35.51881372,36.46209386
+unambiguous_bands_sensitivity,Mexico,Gen Z,Q30,Heard a lot,substantive_only,277,0,293.39944826,35.51881372,36.46209386
+unambiguous_bands_sensitivity,Mexico,Gen Z,Q30,Heard at least a little,all_including_dk,277,0,293.39944826,88.34727678,89.16967509
+unambiguous_bands_sensitivity,Mexico,Gen Z,Q30,Heard at least a little,substantive_only,277,0,293.39944826,88.34727678,89.16967509
+unambiguous_bands_sensitivity,Mexico,Gen Z,Q31,More excited than concerned,all_including_dk,277,4,293.39944826,18.92521787,18.41155235
+unambiguous_bands_sensitivity,Mexico,Gen Z,Q31,More excited than concerned,substantive_only,273,0,289.31942051,19.19210425,18.68131868
+unambiguous_bands_sensitivity,Mexico,Non-Gen Z,Q30,Heard a lot,all_including_dk,773,10,756.60055174,13.18676778,12.03104787
+unambiguous_bands_sensitivity,Mexico,Non-Gen Z,Q30,Heard a lot,substantive_only,763,0,745.59548315,13.38140587,12.18872870
+unambiguous_bands_sensitivity,Mexico,Non-Gen Z,Q30,Heard at least a little,all_including_dk,773,10,756.60055174,65.82861936,66.36481242
+unambiguous_bands_sensitivity,Mexico,Non-Gen Z,Q30,Heard at least a little,substantive_only,763,0,745.59548315,66.80025678,67.23460026
+unambiguous_bands_sensitivity,Mexico,Non-Gen Z,Q31,More excited than concerned,all_including_dk,773,50,756.60055174,10.12766864,8.66752911
+unambiguous_bands_sensitivity,Mexico,Non-Gen Z,Q31,More excited than concerned,substantive_only,723,0,701.43548826,10.92416880,9.26694329

@@ -1,0 +1,16 @@
+{
+  "unchanged_latest_clean_shape": [
+    28333,
+    26
+  ],
+  "patched_shape": [
+    28333,
+    26
+  ],
+  "exact_equal_all_columns_and_values": true,
+  "unchanged_latest_source_commit": "de0fff48ba7e1b769826bcbd7cf3af294076fd4c",
+  "raw_sav_sha256": "3790967934227f11dd7bda4ef885aefbec0bd259076dcc1b214d1d6e1e10a0dd",
+  "patched_clean_csv_sha256": "6d3c4c0734be209ca21505a9591a8ece06383b1bbce6bb9605c34ee44146938f",
+  "upstream_clean_csv_sha256": "6d3c4c0734be209ca21505a9591a8ece06383b1bbce6bb9605c34ee44146938f",
+  "mapping_csv_exact_equal": true
+}

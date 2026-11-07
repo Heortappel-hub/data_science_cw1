@@ -1,0 +1,112 @@
+{
+  "variables_checked": [
+    "country",
+    "ai_heard",
+    "ai_cncexc",
+    "age",
+    "age_australia",
+    "political_scale2",
+    "political_scale3",
+    "aireg_us",
+    "aireg_china",
+    "aireg_eu",
+    "aireg_country",
+    "d_age_argentina",
+    "d_age_brazil",
+    "d_age_canada",
+    "d_age_france",
+    "d_age_germany",
+    "d_age_greece",
+    "d_age_hungary",
+    "d_age_india",
+    "d_age_indonesia",
+    "d_age_israel",
+    "d_age_italy",
+    "d_age_japan",
+    "d_age_kenya",
+    "d_age_mexico",
+    "d_age_netherlands",
+    "d_age_nigeria",
+    "d_age_poland",
+    "d_age_safrica",
+    "d_age_skorea",
+    "d_age_spain",
+    "d_age_sweden",
+    "d_age_turkey",
+    "d_age_uk"
+  ],
+  "dictionary_meaning_matches_sav": true,
+  "label_placeholder_normalisation": [
+    {
+      "variable": "political_scale2",
+      "code": 1.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale2",
+      "code": 2.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale2",
+      "code": 3.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale2",
+      "code": 4.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale2",
+      "code": 5.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale3",
+      "code": 1.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale3",
+      "code": 2.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale3",
+      "code": 3.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale3",
+      "code": 4.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    },
+    {
+      "variable": "political_scale3",
+      "code": 5.0,
+      "xlsx_label": "<none>",
+      "sav_label": "",
+      "meaning": "unlabelled valid intermediate scale point, not missing"
+    }
+  ],
+  "dictionary_sha256": "98316a0778db2243937af9b39466a8caeecd24e900a5e61157b904baad414243"
+}

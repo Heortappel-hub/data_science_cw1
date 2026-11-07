@@ -1,0 +1,20 @@
+100644 blob 0528122bb35f97eb3b077c9f53da7762d8d2fed3 3629269	Data/Output/clean.csv
+100644 blob a7fa84248b6bb66493efa6a33eb74b08c0b2c009    8140	Data/Output/data_quality_report.txt
+100644 blob 21eb9cfa07574b536f10fa3502ce20d0bae5eead   16215	Data/Output/educ_labels.txt
+100644 blob 61ec6e98370a92b9fe04f4dbfee2fcf697bc69f8   22558	Data/Output/educ_mapping.csv
+100644 blob 4c94c2924f844f7304fee497d27b01662afe6ac7  165119	Data/sources/Pew Research Center Global Attitudes Spring 2025 Data Dictionary.xlsx
+100644 blob 21a877c91deb7543a4df6306a706dc42d5db369c 28781172	Data/sources/Pew Research Center Global Attitudes Spring 2025 Dataset CSV.csv
+100644 blob 2776313c5d6c346211f41972d5bafad3ed5c5ba2 15292417	Data/sources/Pew Research Center Global Attitudes Spring 2025 Dataset.sav
+100644 blob 1c2dc575eff1f92a887e9ba190840f71df29b31f  957202	Data/sources/Pew Research Center Global Attitudes Spring 2025 Metadata.xml
+100644 blob 5b3b502200b50442ed1e1801a7b673058af953d4  592808	Data/sources/Pew Research Center Global Attitudes Spring 2025 Questionnaire.pdf
+100644 blob 5ee764f4ba9b9865b82012bc4e68c510828c54db  785799	Data/sources/Pew Research Center Global Attitudes Spring 2025 Topline.pdf
+100644 blob b02ee9fbc98a16905d3a30cb41f7f6dfb73df86a  122300	Data/sources/README. Pew Research Center Global Attitudes Spring 2025 Data Info.pdf
+100644 blob ec11b191cf12cca0e02a5b23645ff411889686b2     364	README.md
+100644 blob 18d682c6032619a3f068ea0b8c63a289fc865e51   24937	src/clean.py
+100644 blob 2776313c5d6c346211f41972d5bafad3ed5c5ba2 15292417	src/data.sav
+100644 blob a086ae82207df6fcb797318435ba700e577280eb    3872	src/partI_cleaning/README_handover.md
+100644 blob 0528122bb35f97eb3b077c9f53da7762d8d2fed3 3629269	src/partI_cleaning/clean.csv
+100644 blob 18d682c6032619a3f068ea0b8c63a289fc865e51   24937	src/partI_cleaning/clean.py
+100644 blob a7fa84248b6bb66493efa6a33eb74b08c0b2c009    8140	src/partI_cleaning/data_quality_report.txt
+100644 blob 21eb9cfa07574b536f10fa3502ce20d0bae5eead   16215	src/partI_cleaning/educ_labels.txt
+100644 blob 61ec6e98370a92b9fe04f4dbfee2fcf697bc69f8   22558	src/partI_cleaning/educ_mapping.csv
